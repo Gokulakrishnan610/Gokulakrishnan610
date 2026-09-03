@@ -9,7 +9,7 @@
   <h1>Gokulakrishnan <span style="color:#34D399;">(GK)</span></h1>
   <h3>Software Engineer · AI/ML · Full-Stack · Cloud</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1000&color=34D399&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Products;Crafting+AI+Agents+%26+RAG+Systems;Full-Stack+%2B+Cloud+%2B+Mobile+Engineer;SIH+2024+Winner;President+%40+DEVS+REC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=34D399&center=true&vCenter=true&width=1000&lines=Building+AI+Products+That+Ship;AI+Agents+%26+RAG+Systems;Full-Stack+%2B+Cloud+Engineer;SIH+2024+Winner;President+%40+DEVS+REC"/>
 
   <br>
 
@@ -26,15 +26,9 @@
   <img src="https://img.shields.io/badge/🎓_REC-CSE-22D3EE?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/🎯_Dec_2027-A78BFA?style=for-the-badge&labelColor=0D1117"/>
 
-  <br><br>
-
-  <img height="160em" src="https://github-readme-stats.kizov.com/api?username=Gokulakrishnan610&show_icons=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9"/>
-
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
 
 ## 🎯 **About Me**
 
@@ -51,8 +45,6 @@
 🏆 **SIH 2024 Winner** — Hackathon builder, team leader & technical problem solver  
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
 
 ## 🏆 **Hackathons & Achievements**
 
@@ -84,8 +76,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
-
 ## 👑 **Leadership & Activities**
 
 <div align="center">
@@ -103,8 +93,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
-
 ## 💼 **Work Experience**
 
 ### 🚀 **Software Engineering Intern — Firstsource Solutions Ltd.**
@@ -120,8 +108,6 @@
 - Focused on **software optimization**, database design & campus digitization
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
 
 ## 💻 **Tech Stack**
 
@@ -175,8 +161,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
-
 ## 🚀 **Project Portfolio**
 
 <div align="center">
@@ -222,32 +206,19 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.kizov.com/api?username=Gokulakrishnan610&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.kizov.com/api/top-langs/?username=Gokulakrishnan610&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-</div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Gokulakrishnan610" alt="GitHub Streak"/>
+  </a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
-
 ## 🌐 **Connect & Collaborate**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="90">
-</div>
 
 <p align="center">
   <a href="https://github.com/Gokulakrishnan610">
@@ -264,10 +235,6 @@
 ---
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.demolab.com/graph?username=Gokulakrishnan610&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
-
-  <br><br>
 
   <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
