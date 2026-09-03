@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There,%20I'm%20Gokulakrishnan%20K&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There,%20I'm%20Gokulakrishnan%20K&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20•%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Gokulakrishnan610">
   <img src="https://github.com/Gokulakrishnan610.png" width="120" style="border-radius:50%;border:3px solid #34D399;" alt="logo"/>
@@ -40,9 +40,9 @@
   <a href="#github-analytics">Analytics</a>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=34D399&animation=twinkling"/>
 
-<br/>
+</div>
 
 ## About Me
 
@@ -51,16 +51,20 @@ I'm **Gokulakrishnan K**, a Computer Science and Engineering student at **Rajala
 My interests span **software development, backend engineering, full-stack development, IoT, blockchain, distributed systems**, and **problem solving**.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
+</div>
 
-```text
-  Problem  →  Research  →  Design  →  Development  →  Testing  →  Deployment  →  Real-World Impact
-```
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=800&lines=Problem+→+Research+→+Design;Development+→+Testing+→+Deployment;Real-World+Impact"/>
 
 </div>
 
 **Currently focused on:** `Software Development` · `Backend Engineering` · `Full Stack Development` · `Data Structures & Algorithms` · `IoT` · `Blockchain`
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🎓 Education
 
@@ -77,7 +81,7 @@ Bachelor of Engineering — Computer Science and Engineering
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🛠️ Tech Stack
 
@@ -85,31 +89,31 @@ Bachelor of Engineering — Computer Science and Engineering
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,go,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,go,js&theme=dark" alt="languages"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="frontend"/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark" alt="backend"/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="databases"/>
 
 **DevOps / Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure&theme=dark" alt="devops"/>
 
 **Tools & Systems**
 <br/>
-<img src="https://skillicons.dev/icons?i=kafka,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=kafka,vscode&theme=dark" alt="tools"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🧠 Core Computer Science
 
@@ -148,7 +152,7 @@ Bachelor of Engineering — Computer Science and Engineering
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 💼 Experience
 
@@ -185,7 +189,7 @@ Worked on practical software solutions including:
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🚀 Featured Projects
 
@@ -232,7 +236,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🏆 Achievements
 
@@ -250,7 +254,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🔬 Areas of Interest
 
@@ -269,9 +273,15 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=34D399&center=true&vCenter=true&width=800&lines=Microservices+%26+Distributed+Systems;Cloud+Computing+%26+Kafka;AI+Applications;Blockchain+%26+Web3"/>
+
+</div>
 
 <table>
 <tr>
@@ -298,19 +308,19 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 <div align="center">
 
 ## ⚡ Development Philosophy
 
-**Learn → Build → Break → Debug → Improve → Repeat**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=34D399&center=true&vCenter=true&width=700&lines=Learn+→+Build+→+Break;Debug+→+Improve+→+Repeat"/>
 
 > *"Don't just learn technology. Build something meaningful with it."*
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 📊 GitHub Analytics
 
@@ -329,7 +339,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 📈 Activity Graph
 
@@ -339,7 +349,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🐍 Contribution Snake
 
@@ -349,7 +359,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
 
 ## 🤝 Let's Connect
 
@@ -367,8 +377,8 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 <br/><br/>
 
-*"Learn continuously. Build intelligently. Solve meaningfully."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Learn+continuously.;Build+intelligently.;Solve+meaningfully."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling"/>
 
 </div>
