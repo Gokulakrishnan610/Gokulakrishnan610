@@ -40,9 +40,9 @@
   <a href="#github-analytics">Analytics</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=34D399&animation=twinkling"/>
-
 </div>
+
+---
 
 ## About Me
 
@@ -56,15 +56,11 @@ My interests span **software development, backend engineering, full-stack develo
 
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=800&lines=Problem+→+Research+→+Design;Development+→+Testing+→+Deployment;Real-World+Impact"/>
-
-</div>
+> *Problem → Research → Design → Development → Testing → Deployment → Real-World Impact*
 
 **Currently focused on:** `Software Development` · `Backend Engineering` · `Full Stack Development` · `Data Structures & Algorithms` · `IoT` · `Blockchain`
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🎓 Education
 
@@ -81,7 +77,7 @@ Bachelor of Engineering — Computer Science and Engineering
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -113,7 +109,7 @@ Bachelor of Engineering — Computer Science and Engineering
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🧠 Core Computer Science
 
@@ -152,7 +148,7 @@ Bachelor of Engineering — Computer Science and Engineering
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 💼 Experience
 
@@ -189,7 +185,7 @@ Worked on practical software solutions including:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -236,7 +232,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🏆 Achievements
 
@@ -254,7 +250,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 🔬 Areas of Interest
 
@@ -273,54 +269,31 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=34D399&center=true&vCenter=true&width=800&lines=Microservices+%26+Distributed+Systems;Cloud+Computing+%26+Kafka;AI+Applications;Blockchain+%26+Web3"/>
+**📖 Strengthening:** Data Structures & Algorithms · Python & Java · Backend Development · Database Systems · System Design
+
+**🔍 Exploring:** Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applications · Blockchain
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📖 Strengthening**
-- Data Structures & Algorithms
-- Python & Java
-- Backend Development
-- Database Systems
-- System Design
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 Exploring**
-- Microservices & Distributed Systems
-- Cloud Computing
-- Kafka
-- AI Applications
-- Blockchain
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
-
-<div align="center">
+---
 
 ## ⚡ Development Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=34D399&center=true&vCenter=true&width=700&lines=Learn+→+Build+→+Break;Debug+→+Improve+→+Repeat"/>
+<div align="center">
+
+**Learn → Build → Break → Debug → Improve → Repeat**
 
 > *"Don't just learn technology. Build something meaningful with it."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -339,7 +312,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
 ## 📈 Activity Graph
 
@@ -349,17 +322,40 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+---
 
-## 🐍 Contribution Snake
+<!--
+  Contribution Snake removed — it was pointing at a branch that doesn't exist
+  (raw.githubusercontent.com/.../output/github-contribution-grid-snake.svg 404s).
+  To bring it back, add this workflow at .github/workflows/snake.yml in your
+  Gokulakrishnan610/Gokulakrishnan610 repo, then re-add the <img> tag below
+  once the first run has created the "output" branch:
 
-<div align="center">
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch: {}
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Gokulakrishnan610
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-<img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=34D399&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+-->
 
 ## 🤝 Let's Connect
 
@@ -377,7 +373,7 @@ Final-year project featuring RAG-grounded feedback, explainable criterion-level 
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Learn+continuously.;Build+intelligently.;Solve+meaningfully."/>
+**Learn continuously. Build intelligently. Solve meaningfully.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling"/>
 
