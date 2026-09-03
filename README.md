@@ -227,10 +227,6 @@
 
   <br><br>
 
-  <img src="https://ghchart.rshah.org/34D399/Gokulakrishnan610" alt="Contribution Chart"/>
-
-  <br><br>
-
   <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
   <br><br>
