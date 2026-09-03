@@ -1,384 +1,268 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:111827,100:1E1B4B&height=280&section=header&text=Gokulakrishnan%20K&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20Backend%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
-
-<img src="https://github.com/Gokulakrishnan610.png" width="128" style="margin-top:-90px;border-radius:50%;border:3px solid transparent;background:linear-gradient(#0B0F1A,#0B0F1A) padding-box,linear-gradient(135deg,#22D3EE,#A78BFA,#34D399) border-box;box-shadow:0 0 40px rgba(34,211,238,0.35);"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=34D399&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Backend+Engineer;Full+Stack+Developer;IoT+%26+Blockchain+Enthusiast;Always+Building+Something+New"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Chennai-India-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
-<img src="https://img.shields.io/badge/REC-CSE-0B0F1A?style=flat-square&labelColor=111827&color=22D3EE"/>
-<img src="https://img.shields.io/badge/Class_of-2027-0B0F1A?style=flat-square&labelColor=111827&color=A78BFA"/>
-
-<br/><br/>
-
-<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Profile-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-<img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&style=for-the-badge&color=34D399&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<a href="#about"><img src="https://img.shields.io/badge/About-↓-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-↓-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-↓-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-↓-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/Wins-↓-111827?style=flat-square&labelColor=0B0F1A&color=FBBF24"/></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Stats-↓-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/></a>
+  <!-- Animated Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokulakrishnan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=16&descAlignY=51"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
-
-<div id="about" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=About+Me" alt="About Me"/>
-</h3>
-
-<p align="center" style="max-width:720px;line-height:1.9;color:#94A3B8;font-size:15px;">
-  I'm <strong style="color:#34D399;">Gokulakrishnan K</strong> — a CSE student at
-  <strong style="color:#22D3EE;">Rajalakshmi Engineering College</strong> who loves turning ideas into
-  real software. I build across <strong style="color:#A78BFA;">backend</strong>,
-  <strong style="color:#F472B6;">full-stack</strong>,
-  <strong style="color:#34D399;">AI agents</strong>,
-  <strong style="color:#FBBF24;">IoT</strong>, and
-  <strong style="color:#22D3EE;">blockchain</strong>.
-</p>
-
-<p align="center" style="font-family:monospace;color:#64748B;font-size:12px;letter-spacing:2px;">
-  Problem → Research → Design → Build → Test → Deploy → Impact
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Software_Dev-●-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
-<img src="https://img.shields.io/badge/Backend-●-0B0F1A?style=flat-square&labelColor=111827&color=22D3EE"/>
-<img src="https://img.shields.io/badge/Full_Stack-●-0B0F1A?style=flat-square&labelColor=111827&color=A78BFA"/>
-<img src="https://img.shields.io/badge/DSA-●-0B0F1A?style=flat-square&labelColor=111827&color=F472B6"/>
-<img src="https://img.shields.io/badge/IoT-●-0B0F1A?style=flat-square&labelColor=111827&color=FBBF24"/>
-<img src="https://img.shields.io/badge/Blockchain-●-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e3f0-26c4-4df7-b098-98416c14e716.gif" width="400"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Education" alt="Education"/>
-</h3>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Building+Real-World+Software+Solutions;🤖+Crafting+AI+Agents+%26+Intelligent+Workflows;🌐+Full-Stack+%7C+Backend+%7C+IoT+%7C+Blockchain" alt="Typing SVG"/>
 
-<p style="margin:0;color:#E2E8F0;font-size:18px;font-weight:600;">🎓 Rajalakshmi Engineering College</p>
-<p style="margin:6px 0 14px 0;color:#94A3B8;font-size:14px;">B.E. Computer Science & Engineering</p>
+  <br><br>
 
-<img src="https://img.shields.io/badge/Graduation-May_2027-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/>
-<img src="https://img.shields.io/badge/CGPA-7.8-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/>
+  <img src="https://github.com/Gokulakrishnan610.png" width="120" style="border-radius:50%;border:3px solid #00D4FF;box-shadow:0 0 25px rgba(0,212,255,0.4);"/>
 
-</div>
+  <br><br>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
-
-<div id="stack" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack"/>
-</h3>
-
-<br/>
-
-<p style="color:#34D399;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">LANGUAGES</p>
-<img src="https://skillicons.dev/icons?i=python,java,c,go,js&theme=dark"/>
-
-<br/><br/>
-
-<p style="color:#22D3EE;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">FRONTEND</p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/>
-
-<br/><br/>
-
-<p style="color:#A78BFA;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">BACKEND</p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark"/>
-
-<br/><br/>
-
-<p style="color:#F472B6;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">DATABASES</p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/>
-
-<br/><br/>
-
-<p style="color:#FBBF24;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">DEVOPS / CLOUD</p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure&theme=dark"/>
-
-<br/><br/>
-
-<p style="color:#34D399;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">TOOLS</p>
-<img src="https://skillicons.dev/icons?i=kafka,vscode&theme=dark"/>
+  <!-- Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
-<br/>
+---
+
+## 🎯 **Developer Vision**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+> *"Don't just learn technology. Build something meaningful with it."*
+
+🎓 **B.E. Computer Science & Engineering** @ Rajalakshmi Engineering College (Class of 2027)  
+📍 **Chennai, India** — Building software that solves real problems  
+🤖 **AI & Backend Engineer** — Agents, APIs, automation & intelligent workflows  
+🌐 **Full-Stack Developer** — From concept to deployment  
+⚡ **Problem Solver** — DSA · System Design · Distributed Systems  
+
+---
+
+## 🏆 **Competitive Achievements**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+### 🥇 **Smart India Hackathon — Internal Round | WINNER**
+- Competed and **won** the internal round at Rajalakshmi Engineering College
+- Built an innovative tech solution under intense hackathon pressure
+- **Recognition** for problem-solving and rapid prototyping skills
+
+### 🥇 **District Technical Expo — 1st Place**
+- Awarded **first place** for technical innovation and project execution
+- Demonstrated end-to-end software development capabilities
+
+### 🥈 **State University-Level Competition — 2nd Place**
+- Secured **runner-up** among university-level competitors statewide
+
+### 🏅 **EDI | IIT Kanpur | IIITM Gwalior — FINALIST**
+- Reached **finalist** stage across multiple national-level competitions
+- Consistent track record of competitive programming & hackathon excellence
+
+### 🏆 **Hackmageddon — REC | Top 36**
+- Placed in the **top 36** among participants at college hackathon
+
+---
+
+## 💼 **Professional Experience**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+</div>
+
+### 🚀 **Software Engineering Intern — Firstsource Solutions**
+**Dec 2025 – Apr 2026** | **AI & Full-Stack**
+- Built **AI agents** and intelligent workflow automation
+- Developed **AI applications** with production-grade integrations
+- Integrated **ElevenLabs** (voice) & **Deepgram** (speech) APIs
+- Delivered **full-stack** features and **backend services** at scale
+
+### 🏫 **Software Developer Intern — Rajalakshmi Engineering College**
+**Apr 2025 – Nov 2025** | **Application Development**
+- Built a **timetable scheduling system** for campus operations
+- Developed a **hostel management application** digitizing workflows
+- Focused on **software optimization** and real-world problem solving
+
+---
+
+## 💻 **Tech Stack**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+### **Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,go,js" />
+</p>
+
+### **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+</p>
+
+### **Databases & Caching**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### **DevOps & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure,kafka,vscode" />
+</p>
+
+### **CS Fundamentals**
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Arrays_•_Trees_•_Graphs_•_DP-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/System_Design-Microservices_•_REST_•_Cloud-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/CS_Core-OOP_•_DBMS_•_OS_•_Networks-A855F7?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+---
+
+## 🚀 **Project Portfolio**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
+</div>
+
+### 🎓 **AI-Based Descriptive Answer Evaluation (IPS17)** — *Final Year Project*
+**RAG + NLP + AI Evaluation** | **Explainable AI**
+- RAG-grounded feedback with **criterion-level scoring**
+- Confidence-based escalation & **ensemble scoring** pipeline
+- Built for explainable, production-grade academic evaluation
+- **Tags**: `RAG` `NLP` `AI Evaluation` `Python`
+
+### 🔗 **INSYNC** — *Real-World Software Solution*
+**Full-Stack Development** | **Problem Solving**
+- Software project solving a **practical real-world problem**
+- End-to-end application development from design to deployment
+- **🔗 [View on GitHub](https://github.com/Gokulakrishnan610/INSYNC)**
+
+### 📅 **Timetable Scheduler** — *Campus Automation*
+**Scheduling + Optimization** | **Backend Development**
+- Intelligent timetable scheduling built during software dev internship
+- Automated scheduling logic reducing manual campus overhead
+- **Tags**: `Scheduling` `Automation` `Backend` `Optimization`
+
+### 🏠 **Hostel Application** — *Campus Management*
+**Application Development** | **Database Management**
+- Digitized hostel-related workflows for students and administration
+- Full-stack app with database-driven operations
+- **Tags**: `App Dev` `Database` `Automation`
+
+---
+
+## 🔬 **Areas of Interest**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="100">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND-APIs_•_DB_•_Redis_•_Kafka-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FULL_STACK-React_•_Next.js-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AI-AI_Agents_•_AI_APIs-A855F7?style=for-the-badge&labelColor=0D1117"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-ESP32_•_Arduino-FBBF24?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/BLOCKCHAIN-Web3_•_Smart_Contracts-34D399?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+### **📖 Currently Strengthening**
+Data Structures & Algorithms · Python & Java · Backend Development · Database Systems · System Design
+
+### **🔍 Currently Exploring**
+Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applications · Blockchain
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan610&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
+</div>
+
+---
+
+## ⚡ **Development Philosophy**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+</div>
+
+**Learn → Build → Break → Debug → Improve → Repeat**
+
+- **Problem → Research → Design → Build → Test → Deploy → Impact**
+- Focused on shipping software that creates **real-world impact**
+- Always learning, always building, always improving
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="100">
+</div>
+
+<p align="center">
+  <a href="https://github.com/Gokulakrishnan610">
+    <img src="https://img.shields.io/badge/GitHub-Gokulakrishnan610-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="mailto:gokulakrishnankadhirvelu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gokulakrishnankadhirvelu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/Gokulakrishnan610/INSYNC">
+    <img src="https://img.shields.io/badge/🔗_INSYNC-View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=CS+Fundamentals" alt="CS Fundamentals"/>
-</h3>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
 
-<br/>
+  <br><br>
 
-<img src="https://img.shields.io/badge/⚡_DSA-Arrays_•_Strings_•_Trees_•_Graphs_•_DP-111827?style=for-the-badge&labelColor=0B0F1A&color=34D399"/><br/><br/>
-<img src="https://img.shields.io/badge/🧠_CS_Core-OOP_•_DBMS_•_OS_•_Networks_•_System_Design-111827?style=for-the-badge&labelColor=0B0F1A&color=22D3EE"/><br/><br/>
-<img src="https://img.shields.io/badge/🔧_Engineering-REST_•_Microservices_•_Cloud_•_DevOps-111827?style=for-the-badge&labelColor=0B0F1A&color=A78BFA"/>
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-</div>
+  <br><br>
 
-<br/>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
+  <br><br>
 
-<div id="experience" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Experience" alt="Experience"/>
-</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🚀_Software_Engineering_Intern-Firstsource_Solutions-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/>
-<img src="https://img.shields.io/badge/DEC_2025_—_APR_2026-●-0B0F1A?style=flat-square&labelColor=111827&color=64748B"/>
-
-<br/><br/>
-
-<p style="max-width:680px;line-height:2;color:#94A3B8;font-size:14px;margin:0;">
-  🤖 AI agents & intelligent workflows &nbsp;·&nbsp; 🧠 AI application development<br/>
-  🎙️ ElevenLabs integration &nbsp;·&nbsp; 🎧 Deepgram integration<br/>
-  🌐 Full-stack development &nbsp;·&nbsp; ⚙️ Backend services & automation
-</p>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏫_Software_Developer_Intern-Rajalakshmi_Engineering_College-0B0F1A?style=for-the-badge&labelColor=111827&color=A78BFA"/>
-<img src="https://img.shields.io/badge/APR_2025_—_NOV_2025-●-0B0F1A?style=flat-square&labelColor=111827&color=64748B"/>
-
-<br/><br/>
-
-<p style="max-width:680px;line-height:2;color:#94A3B8;font-size:14px;margin:0;">
-  📅 Timetable scheduling system &nbsp;·&nbsp; 🏠 Hostel management app<br/>
-  ⚙️ Application development &nbsp;·&nbsp; 🔧 Software optimization
-</p>
+  <!-- Closing Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
-
-<div id="projects" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Featured+Projects" alt="Featured Projects"/>
-</h3>
-
-<br/>
-
-### 🔗 INSYNC
-<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
-A software project focused on solving a practical real-world problem through technology.
-</p>
-<img src="https://img.shields.io/badge/Software_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
-<img src="https://img.shields.io/badge/App_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
-<img src="https://img.shields.io/badge/Problem_Solving-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
-<br/><br/>
-<a href="https://github.com/Gokulakrishnan610/INSYNC"><img src="https://img.shields.io/badge/View_Project-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
-
-<br/><br/>
-
-### 📅 Timetable Scheduler
-<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
-A timetable scheduling solution developed during my software development internship.
-</p>
-<img src="https://img.shields.io/badge/Scheduling-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
-<img src="https://img.shields.io/badge/Automation-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
-<img src="https://img.shields.io/badge/Backend-●-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/>
-<img src="https://img.shields.io/badge/Optimization-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
-
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
-
-<br/><br/>
-
-### 🏠 Hostel Application
-<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
-A hostel management application to simplify and digitize hostel-related workflows.
-</p>
-<img src="https://img.shields.io/badge/App_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
-<img src="https://img.shields.io/badge/Database-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
-<img src="https://img.shields.io/badge/Automation-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
-
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
-
-<br/><br/>
-
-### 🎓 AI Answer Evaluation (IPS17)
-<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
-Final-year project — RAG-grounded feedback, explainable criterion-level scoring, confidence-based escalation & ensemble scoring.
-</p>
-<img src="https://img.shields.io/badge/RAG-●-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/>
-<img src="https://img.shields.io/badge/NLP-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
-<img src="https://img.shields.io/badge/AI_Evaluation-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
-
-<div id="achievements" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Achievements" alt="Achievements"/>
-</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🥇_Smart_India_Hackathon_(Internal)-WINNER-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/><br/><br/>
-<img src="https://img.shields.io/badge/🏅_EDI-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/><br/><br/>
-<img src="https://img.shields.io/badge/🏅_IIT_Kanpur-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=A78BFA"/><br/><br/>
-<img src="https://img.shields.io/badge/🏅_IIITM_Gwalior-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=F472B6"/><br/><br/>
-<img src="https://img.shields.io/badge/🏆_Hackmageddon_REC-TOP_36-0B0F1A?style=for-the-badge&labelColor=111827&color=FBBF24"/><br/><br/>
-<img src="https://img.shields.io/badge/🥇_District_Technical_Expo-1ST_PLACE-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/><br/><br/>
-<img src="https://img.shields.io/badge/🥈_State_University_Competition-2ND_PLACE-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/>
-
-</div>
-
-<br/>
+---
 
 <div align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Areas+of+Interest" alt="Areas of Interest"/>
-</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BACKEND-APIs_•_DB_•_Redis_•_Kafka-111827?style=for-the-badge&labelColor=0B0F1A&color=34D399"/>
-<img src="https://img.shields.io/badge/FULL_STACK-React_•_Next.js-111827?style=for-the-badge&labelColor=0B0F1A&color=22D3EE"/>
-<img src="https://img.shields.io/badge/AI-AI_Agents_•_AI_APIs-111827?style=for-the-badge&labelColor=0B0F1A&color=A78BFA"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/IoT-ESP32_•_Arduino-111827?style=for-the-badge&labelColor=0B0F1A&color=FBBF24"/>
-<img src="https://img.shields.io/badge/BLOCKCHAIN-Web3_•_Smart_Contracts-111827?style=for-the-badge&labelColor=0B0F1A&color=F472B6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Currently+Learning" alt="Currently Learning"/>
-</h3>
-
-<br/>
-
-<p style="color:#34D399;font-family:monospace;font-size:12px;letter-spacing:3px;margin:0 0 12px 0;">📖 STRENGTHENING</p>
-<p style="color:#94A3B8;font-size:14px;line-height:2.2;margin:0 0 28px 0;">
-Data Structures & Algorithms · Python & Java · Backend Development<br/>
-Database Systems · System Design
-</p>
-
-<p style="color:#A78BFA;font-family:monospace;font-size:12px;letter-spacing:3px;margin:0 0 12px 0;">🔍 EXPLORING</p>
-<p style="color:#94A3B8;font-size:14px;line-height:2.2;margin:0;">
-Microservices & Distributed Systems · Cloud Computing · Kafka<br/>
-AI Applications · Blockchain
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p style="font-family:monospace;color:#E2E8F0;font-size:15px;letter-spacing:1px;margin:0 0 12px 0;">
-Learn → Build → Break → Debug → Improve → Repeat
-</p>
-<p style="color:#64748B;font-size:14px;font-style:italic;margin:0;">
-"Don't just learn technology. Build something meaningful with it."
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
-
-<div id="analytics" align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=GitHub+Analytics" alt="GitHub Analytics"/>
-</h3>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=34D399&icon_color=34D399&text_color=C9D1D9&border_radius=16"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Gokulakrishnan610&hide_border=true&background=0B0F1A&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=16"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan610&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=34D399&text_color=C9D1D9&border_radius=16"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&bg_color=0B0F1A&color=34D399&line=34D399&point=C9D1D9&area=true&area_color=34D399&title_color=34D399&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Let's+Connect" alt="Let's Connect"/>
-</h3>
-
-<br/>
-
-<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Gokulakrishnan610-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Gokulakrishnan%20K-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-
-<br/><br/>
-
-<p style="color:#64748B;font-family:monospace;font-size:13px;letter-spacing:2px;margin:0;">
-Learn continuously. Build intelligently. Solve meaningfully.
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:111827,100:1E1B4B&height=140&section=footer&animation=twinkling"/>
-
+  <h3>💡 "Learn. Build. Ship. Repeat." 💡</h3>
+  <p><em>Turning ideas into software — one commit at a time.</em></p>
 </div>
