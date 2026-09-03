@@ -1,687 +1,351 @@
 <div align="center">
 
-<!-- ═══════════════════ HERO ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:111827,100:1E1B4B&height=280&section=header&text=Gokulakrishnan%20K&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20Backend%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0f3460&height=220&section=header&text=&fontSize=1&animation=twinkling"/>
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<div style="margin-top:-140px;">
-
-<img src="https://github.com/Gokulakrishnan610.png" width="130" style="border-radius:50%;border:4px solid #00ff88;box-shadow:0 0 30px rgba(0,255,136,0.4);"/>
+<img src="https://github.com/Gokulakrishnan610.png" width="128" style="margin-top:-90px;border-radius:50%;border:3px solid transparent;background:linear-gradient(#0B0F1A,#0B0F1A) padding-box,linear-gradient(135deg,#22D3EE,#A78BFA,#34D399) border-box;box-shadow:0 0 40px rgba(34,211,238,0.35);"/>
 
 <br/><br/>
 
-<h1 style="font-family:monospace;font-size:2.2em;margin:0;background:linear-gradient(90deg,#00ff88,#06b6d4,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">
-GOKULAKRISHNAN K
-</h1>
-
-<p style="font-family:monospace;color:#64748b;font-size:0.85em;letter-spacing:4px;margin:8px 0 0 0;">
-SOFTWARE DEVELOPER · AI & BACKEND ENGINEER
-</p>
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=920&lines=Computer+Science+Engineering+Student;AI+%26+Backend+Engineer;Full+Stack+Developer;IoT+%26+Blockchain+Enthusiast;Problem+Solver+%7C+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=34D399&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Backend+Engineer;Full+Stack+Developer;IoT+%26+Blockchain+Enthusiast;Always+Building+Something+New"/>
 
 <br/>
 
-<div style="display:inline-block;padding:12px 24px;border-radius:50px;border:1px solid rgba(0,255,136,0.3);background:rgba(0,255,136,0.05);margin:8px 4px;">
-<span style="color:#00ff88;font-family:monospace;font-size:13px;">📍 Chennai, India</span>
-</div>
-<div style="display:inline-block;padding:12px 24px;border-radius:50px;border:1px solid rgba(168,85,247,0.3);background:rgba(168,85,247,0.05);margin:8px 4px;">
-<span style="color:#a855f7;font-family:monospace;font-size:13px;">🎓 REC · CSE</span>
-</div>
-<div style="display:inline-block;padding:12px 24px;border-radius:50px;border:1px solid rgba(6,182,212,0.3);background:rgba(6,182,212,0.05);margin:8px 4px;">
-<span style="color:#06b6d4;font-family:monospace;font-size:13px;">🎯 Class of 2027</span>
-</div>
+<img src="https://img.shields.io/badge/Chennai-India-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
+<img src="https://img.shields.io/badge/REC-CSE-0B0F1A?style=flat-square&labelColor=111827&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Class_of-2027-0B0F1A?style=flat-square&labelColor=111827&color=A78BFA"/>
 
 <br/><br/>
 
-<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Profile-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=1a1a2e"/></a>
-<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1a1a2e"/></a>
-<img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&style=for-the-badge&color=00ff88&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Profile-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
+<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&style=for-the-badge&color=34D399&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<div style="padding:10px 20px;border-radius:12px;background:#0a0a0f;border:1px solid #1e293b;display:inline-block;">
-<a href="#about" style="color:#00ff88;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">About</a>
-<span style="color:#334155;">|</span>
-<a href="#stack" style="color:#06b6d4;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">Stack</a>
-<span style="color:#334155;">|</span>
-<a href="#experience" style="color:#a855f7;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">Experience</a>
-<span style="color:#334155;">|</span>
-<a href="#projects" style="color:#f472b6;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">Projects</a>
-<span style="color:#334155;">|</span>
-<a href="#achievements" style="color:#fbbf24;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">Wins</a>
-<span style="color:#334155;">|</span>
-<a href="#analytics" style="color:#34d399;text-decoration:none;font-family:monospace;font-size:13px;margin:0 10px;">Stats</a>
-</div>
-
-</td>
-</tr>
-</table>
+<a href="#about"><img src="https://img.shields.io/badge/About-↓-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-↓-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-↓-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-↓-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/Wins-↓-111827?style=flat-square&labelColor=0B0F1A&color=FBBF24"/></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Stats-↓-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="about" align="center">
 
-<h2 style="font-family:monospace;color:#00ff88;border-bottom:2px solid #00ff88;display:inline-block;padding-bottom:6px;">
-// ABOUT ME
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=About+Me" alt="About Me"/>
+</h3>
 
-<table width="95%">
-<tr>
-<td>
-
-<div style="background:linear-gradient(135deg,#0a0a0f 0%,#1a1a2e 100%);border:1px solid #1e293b;border-left:4px solid #00ff88;border-radius:12px;padding:24px 28px;text-align:left;">
-
-<p style="color:#cbd5e1;font-size:15px;line-height:1.8;margin:0 0 16px 0;">
-I'm <strong style="color:#00ff88;">Gokulakrishnan K</strong> — a Computer Science & Engineering student at
-<strong style="color:#06b6d4;">Rajalakshmi Engineering College</strong>, obsessed with turning ideas into
-production-ready software that actually solves real problems.
+<p align="center" style="max-width:720px;line-height:1.9;color:#94A3B8;font-size:15px;">
+  I'm <strong style="color:#34D399;">Gokulakrishnan K</strong> — a CSE student at
+  <strong style="color:#22D3EE;">Rajalakshmi Engineering College</strong> who loves turning ideas into
+  real software. I build across <strong style="color:#A78BFA;">backend</strong>,
+  <strong style="color:#F472B6;">full-stack</strong>,
+  <strong style="color:#34D399;">AI agents</strong>,
+  <strong style="color:#FBBF24;">IoT</strong>, and
+  <strong style="color:#22D3EE;">blockchain</strong>.
 </p>
 
-<p style="color:#94a3b8;font-size:14px;line-height:1.8;margin:0 0 20px 0;">
-My world spans <span style="color:#a855f7;">backend engineering</span>,
-<span style="color:#06b6d4;">full-stack development</span>,
-<span style="color:#f472b6;">AI agents</span>,
-<span style="color:#fbbf24;">IoT</span>,
-<span style="color:#34d399;">blockchain</span>, and
-<span style="color:#00ff88;">distributed systems</span>.
+<p align="center" style="font-family:monospace;color:#64748B;font-size:12px;letter-spacing:2px;">
+  Problem → Research → Design → Build → Test → Deploy → Impact
 </p>
 
-<div style="padding:14px 18px;border-radius:8px;background:rgba(0,255,136,0.06);border:1px dashed rgba(0,255,136,0.25);text-align:center;">
-<span style="color:#64748b;font-family:monospace;font-size:12px;letter-spacing:1px;">
-Problem → Research → Design → Build → Test → Deploy → Impact
-</span>
+<br/>
+
+<img src="https://img.shields.io/badge/Software_Dev-●-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
+<img src="https://img.shields.io/badge/Backend-●-0B0F1A?style=flat-square&labelColor=111827&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Full_Stack-●-0B0F1A?style=flat-square&labelColor=111827&color=A78BFA"/>
+<img src="https://img.shields.io/badge/DSA-●-0B0F1A?style=flat-square&labelColor=111827&color=F472B6"/>
+<img src="https://img.shields.io/badge/IoT-●-0B0F1A?style=flat-square&labelColor=111827&color=FBBF24"/>
+<img src="https://img.shields.io/badge/Blockchain-●-0B0F1A?style=flat-square&labelColor=111827&color=34D399"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e3f0-26c4-4df7-b098-98416c14e716.gif" width="400"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #00ff88;color:#00ff88;font-family:monospace;font-size:11px;">Software Dev</span>
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #06b6d4;color:#06b6d4;font-family:monospace;font-size:11px;">Backend</span>
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #a855f7;color:#a855f7;font-family:monospace;font-size:11px;">Full Stack</span>
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #f472b6;color:#f472b6;font-family:monospace;font-size:11px;">DSA</span>
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #fbbf24;color:#fbbf24;font-family:monospace;font-size:11px;">IoT</span>
-<span style="display:inline-block;padding:6px 14px;margin:4px;border-radius:20px;background:#1a1a2e;border:1px solid #34d399;color:#34d399;font-family:monospace;font-size:11px;">Blockchain</span>
-</div>
 
-</div>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Education" alt="Education"/>
+</h3>
 
-</td>
-</tr>
-</table>
+<p style="margin:0;color:#E2E8F0;font-size:18px;font-weight:600;">🎓 Rajalakshmi Engineering College</p>
+<p style="margin:6px 0 14px 0;color:#94A3B8;font-size:14px;">B.E. Computer Science & Engineering</p>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════ EDUCATION ═══════════════════ -->
-
-<div align="center">
-
-<h2 style="font-family:monospace;color:#06b6d4;border-bottom:2px solid #06b6d4;display:inline-block;padding-bottom:6px;">
-// EDUCATION
-</h2>
-
-<table width="95%">
-<tr>
-<td>
-
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:22px 28px;text-align:left;">
-
-<table>
-<tr>
-<td valign="middle" style="padding-right:20px;">
-<div style="width:56px;height:56px;border-radius:12px;background:linear-gradient(135deg,#06b6d4,#a855f7);text-align:center;line-height:56px;font-size:24px;">
-🎓
-</div>
-</td>
-<td valign="middle">
-<p style="color:#f1f5f9;font-size:16px;font-weight:bold;margin:0 0 4px 0;font-family:monospace;">Rajalakshmi Engineering College</p>
-<p style="color:#94a3b8;font-size:13px;margin:0 0 8px 0;">B.E. Computer Science & Engineering</p>
-<p style="margin:0;">
-<span style="color:#06b6d4;font-family:monospace;font-size:12px;background:rgba(6,182,212,0.1);padding:4px 10px;border-radius:6px;margin-right:8px;">📅 May 2027</span>
-<span style="color:#00ff88;font-family:monospace;font-size:12px;background:rgba(0,255,136,0.1);padding:4px 10px;border-radius:6px;">📊 CGPA 7.8</span>
-</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Graduation-May_2027-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/>
+<img src="https://img.shields.io/badge/CGPA-7.8-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="stack" align="center">
 
-<h2 style="font-family:monospace;color:#a855f7;border-bottom:2px solid #a855f7;display:inline-block;padding-bottom:6px;">
-// TECH STACK
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack"/>
+</h3>
 
 <br/>
 
-<table width="95%">
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
-
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #00ff88;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#00ff88;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">LANGUAGES</p>
+<p style="color:#34D399;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">LANGUAGES</p>
 <img src="https://skillicons.dev/icons?i=python,java,c,go,js&theme=dark"/>
-</div>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #06b6d4;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#06b6d4;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">FRONTEND</p>
+<p style="color:#22D3EE;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">FRONTEND</p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/>
-</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #a855f7;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#a855f7;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">BACKEND</p>
+<p style="color:#A78BFA;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">BACKEND</p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark"/>
-</div>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #f472b6;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#f472b6;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">DATABASES</p>
+<p style="color:#F472B6;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">DATABASES</p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/>
-</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #fbbf24;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#fbbf24;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">DEVOPS / CLOUD</p>
+<p style="color:#FBBF24;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">DEVOPS / CLOUD</p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure&theme=dark"/>
-</div>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-top:3px solid #34d399;border-radius:12px;padding:20px;text-align:center;">
-<p style="color:#34d399;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">TOOLS & SYSTEMS</p>
+<p style="color:#34D399;font-family:monospace;font-size:11px;letter-spacing:4px;margin:0 0 10px 0;">TOOLS</p>
 <img src="https://skillicons.dev/icons?i=kafka,vscode&theme=dark"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════ CS FUNDAMENTALS ═══════════════════ -->
 
 <div align="center">
 
-<h2 style="font-family:monospace;color:#f472b6;border-bottom:2px solid #f472b6;display:inline-block;padding-bottom:6px;">
-// CS FUNDAMENTALS
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=CS+Fundamentals" alt="CS Fundamentals"/>
+</h3>
 
-<table width="95%">
-<tr>
-<td width="33%" valign="top" style="padding:6px;">
+<br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:18px;text-align:left;height:100%;">
-<p style="color:#00ff88;font-family:monospace;font-size:12px;margin:0 0 12px 0;">⚡ DSA</p>
-<p style="color:#94a3b8;font-size:13px;line-height:2;margin:0;">
-Arrays & Strings<br/>
-Linked Lists<br/>
-Trees & Graphs<br/>
-Recursion<br/>
-Dynamic Programming
-</p>
-</div>
-
-</td>
-<td width="33%" valign="top" style="padding:6px;">
-
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:18px;text-align:left;height:100%;">
-<p style="color:#06b6d4;font-family:monospace;font-size:12px;margin:0 0 12px 0;">🧠 CS CORE</p>
-<p style="color:#94a3b8;font-size:13px;line-height:2;margin:0;">
-OOP<br/>
-DBMS<br/>
-Operating Systems<br/>
-Computer Networks<br/>
-System Design
-</p>
-</div>
-
-</td>
-<td width="33%" valign="top" style="padding:6px;">
-
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:18px;text-align:left;height:100%;">
-<p style="color:#a855f7;font-family:monospace;font-size:12px;margin:0 0 12px 0;">🔧 ENGINEERING</p>
-<p style="color:#94a3b8;font-size:13px;line-height:2;margin:0;">
-REST APIs<br/>
-Microservices<br/>
-Real-time Systems<br/>
-Cloud<br/>
-DevOps
-</p>
-</div>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/⚡_DSA-Arrays_•_Strings_•_Trees_•_Graphs_•_DP-111827?style=for-the-badge&labelColor=0B0F1A&color=34D399"/><br/><br/>
+<img src="https://img.shields.io/badge/🧠_CS_Core-OOP_•_DBMS_•_OS_•_Networks_•_System_Design-111827?style=for-the-badge&labelColor=0B0F1A&color=22D3EE"/><br/><br/>
+<img src="https://img.shields.io/badge/🔧_Engineering-REST_•_Microservices_•_Cloud_•_DevOps-111827?style=for-the-badge&labelColor=0B0F1A&color=A78BFA"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="experience" align="center">
 
-<h2 style="font-family:monospace;color:#00ff88;border-bottom:2px solid #00ff88;display:inline-block;padding-bottom:6px;">
-// EXPERIENCE
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Experience" alt="Experience"/>
+</h3>
 
-<table width="95%">
-<tr>
-<td style="padding:8px;">
+<br/>
 
-<div style="background:linear-gradient(135deg,#0a0a0f,#111827);border:1px solid #1e293b;border-left:4px solid #00ff88;border-radius:12px;padding:24px 28px;text-align:left;margin-bottom:12px;">
+<img src="https://img.shields.io/badge/🚀_Software_Engineering_Intern-Firstsource_Solutions-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/>
+<img src="https://img.shields.io/badge/DEC_2025_—_APR_2026-●-0B0F1A?style=flat-square&labelColor=111827&color=64748B"/>
 
-<table width="100%">
-<tr>
-<td>
-<p style="color:#00ff88;font-family:monospace;font-size:11px;letter-spacing:2px;margin:0 0 6px 0;">DEC 2025 — APR 2026</p>
-<p style="color:#f1f5f9;font-size:17px;font-weight:bold;margin:0 0 4px 0;">🚀 Software Engineering Intern</p>
-<p style="color:#64748b;font-size:13px;margin:0 0 16px 0;">Firstsource Solutions</p>
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<table width="100%">
-<tr>
-<td width="50%" style="padding:4px 8px 4px 0;">
-<span style="color:#94a3b8;font-size:13px;">🤖 AI agents & intelligent workflows</span>
-</td>
-<td width="50%" style="padding:4px 0 4px 8px;">
-<span style="color:#94a3b8;font-size:13px;">🧠 AI application development</span>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:4px 8px 4px 0;">
-<span style="color:#94a3b8;font-size:13px;">🎙️ ElevenLabs integration</span>
-</td>
-<td width="50%" style="padding:4px 0 4px 8px;">
-<span style="color:#94a3b8;font-size:13px;">🎧 Deepgram integration</span>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:4px 8px 4px 0;">
-<span style="color:#94a3b8;font-size:13px;">🌐 Full-stack development</span>
-</td>
-<td width="50%" style="padding:4px 0 4px 8px;">
-<span style="color:#94a3b8;font-size:13px;">⚙️ Backend services & automation</span>
-</td>
-</tr>
-</table>
+<p style="max-width:680px;line-height:2;color:#94A3B8;font-size:14px;margin:0;">
+  🤖 AI agents & intelligent workflows &nbsp;·&nbsp; 🧠 AI application development<br/>
+  🎙️ ElevenLabs integration &nbsp;·&nbsp; 🎧 Deepgram integration<br/>
+  🌐 Full-stack development &nbsp;·&nbsp; ⚙️ Backend services & automation
+</p>
 
-</div>
+<br/><br/>
 
-<div style="background:linear-gradient(135deg,#0a0a0f,#111827);border:1px solid #1e293b;border-left:4px solid #a855f7;border-radius:12px;padding:24px 28px;text-align:left;">
+<img src="https://img.shields.io/badge/🏫_Software_Developer_Intern-Rajalakshmi_Engineering_College-0B0F1A?style=for-the-badge&labelColor=111827&color=A78BFA"/>
+<img src="https://img.shields.io/badge/APR_2025_—_NOV_2025-●-0B0F1A?style=flat-square&labelColor=111827&color=64748B"/>
 
-<table width="100%">
-<tr>
-<td>
-<p style="color:#a855f7;font-family:monospace;font-size:11px;letter-spacing:2px;margin:0 0 6px 0;">APR 2025 — NOV 2025</p>
-<p style="color:#f1f5f9;font-size:17px;font-weight:bold;margin:0 0 4px 0;">🏫 Software Developer Intern</p>
-<p style="color:#64748b;font-size:13px;margin:0 0 16px 0;">Rajalakshmi Engineering College</p>
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<table width="100%">
-<tr>
-<td width="50%" style="padding:4px 8px 4px 0;">
-<span style="color:#94a3b8;font-size:13px;">📅 Timetable scheduling system</span>
-</td>
-<td width="50%" style="padding:4px 0 4px 8px;">
-<span style="color:#94a3b8;font-size:13px;">🏠 Hostel management app</span>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:4px 8px 4px 0;">
-<span style="color:#94a3b8;font-size:13px;">⚙️ Application development</span>
-</td>
-<td width="50%" style="padding:4px 0 4px 8px;">
-<span style="color:#94a3b8;font-size:13px;">🔧 Software optimization</span>
-</td>
-</tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
+<p style="max-width:680px;line-height:2;color:#94A3B8;font-size:14px;margin:0;">
+  📅 Timetable scheduling system &nbsp;·&nbsp; 🏠 Hostel management app<br/>
+  ⚙️ Application development &nbsp;·&nbsp; 🔧 Software optimization
+</p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="projects" align="center">
 
-<h2 style="font-family:monospace;color:#06b6d4;border-bottom:2px solid #06b6d4;display:inline-block;padding-bottom:6px;">
-// FEATURED PROJECTS
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Featured+Projects" alt="Featured Projects"/>
+</h3>
 
-<table width="95%">
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
+<br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:22px;text-align:left;height:100%;">
-
-<p style="color:#00ff88;font-size:16px;font-weight:bold;margin:0 0 10px 0;">🔗 INSYNC</p>
-<p style="color:#94a3b8;font-size:13px;line-height:1.7;margin:0 0 14px 0;">A software project focused on solving a practical real-world problem through technology.</p>
-<p style="margin:0 0 14px 0;">
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Software Dev</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">App Dev</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Problem Solving</span>
+### 🔗 INSYNC
+<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
+A software project focused on solving a practical real-world problem through technology.
 </p>
-<a href="https://github.com/Gokulakrishnan610/INSYNC"><img src="https://img.shields.io/badge/View_Project-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=1a1a2e"/></a>
+<img src="https://img.shields.io/badge/Software_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
+<img src="https://img.shields.io/badge/App_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Problem_Solving-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
+<br/><br/>
+<a href="https://github.com/Gokulakrishnan610/INSYNC"><img src="https://img.shields.io/badge/View_Project-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
 
-</div>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:22px;text-align:left;height:100%;">
-
-<p style="color:#06b6d4;font-size:16px;font-weight:bold;margin:0 0 10px 0;">📅 Timetable Scheduler</p>
-<p style="color:#94a3b8;font-size:13px;line-height:1.7;margin:0 0 14px 0;">A timetable scheduling solution developed during my software development internship.</p>
-<p style="margin:0;">
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Scheduling</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Automation</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Backend</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Optimization</span>
+### 📅 Timetable Scheduler
+<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
+A timetable scheduling solution developed during my software development internship.
 </p>
+<img src="https://img.shields.io/badge/Scheduling-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Automation-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
+<img src="https://img.shields.io/badge/Backend-●-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/>
+<img src="https://img.shields.io/badge/Optimization-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
 
-</div>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:22px;text-align:left;height:100%;">
-
-<p style="color:#a855f7;font-size:16px;font-weight:bold;margin:0 0 10px 0;">🏠 Hostel Application</p>
-<p style="color:#94a3b8;font-size:13px;line-height:1.7;margin:0 0 14px 0;">A hostel management application to simplify and digitize hostel-related workflows.</p>
-<p style="margin:0;">
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">App Dev</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Database</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">Automation</span>
+### 🏠 Hostel Application
+<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
+A hostel management application to simplify and digitize hostel-related workflows.
 </p>
+<img src="https://img.shields.io/badge/App_Dev-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
+<img src="https://img.shields.io/badge/Database-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Automation-●-111827?style=flat-square&labelColor=0B0F1A&color=34D399"/>
 
-</div>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-42b6-a963-2c7e7c7bf088.gif" width="500"/>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
+<br/><br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:22px;text-align:left;height:100%;">
-
-<p style="color:#f472b6;font-size:16px;font-weight:bold;margin:0 0 10px 0;">🎓 AI Answer Evaluation</p>
-<p style="color:#94a3b8;font-size:13px;line-height:1.7;margin:0 0 14px 0;">Final-year IPS17 project — RAG-grounded feedback, explainable criterion-level scoring, confidence-based escalation & ensemble scoring.</p>
-<p style="margin:0;">
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">RAG</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">NLP</span>
-<span style="display:inline-block;padding:3px 10px;margin:2px;border-radius:12px;background:#1a1a2e;color:#64748b;font-family:monospace;font-size:10px;">AI Evaluation</span>
+### 🎓 AI Answer Evaluation (IPS17)
+<p style="max-width:600px;color:#94A3B8;font-size:14px;line-height:1.8;margin:8px auto;">
+Final-year project — RAG-grounded feedback, explainable criterion-level scoring, confidence-based escalation & ensemble scoring.
 </p>
-
-</div>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/RAG-●-111827?style=flat-square&labelColor=0B0F1A&color=F472B6"/>
+<img src="https://img.shields.io/badge/NLP-●-111827?style=flat-square&labelColor=0B0F1A&color=A78BFA"/>
+<img src="https://img.shields.io/badge/AI_Evaluation-●-111827?style=flat-square&labelColor=0B0F1A&color=22D3EE"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="achievements" align="center">
 
-<h2 style="font-family:monospace;color:#fbbf24;border-bottom:2px solid #fbbf24;display:inline-block;padding-bottom:6px;">
-// ACHIEVEMENTS
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Achievements" alt="Achievements"/>
+</h3>
 
 <br/>
 
-<table width="95%">
-<tr>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🥇</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">Smart India Hackathon — Internal</span>
-<span style="float:right;color:#00ff88;font-family:monospace;font-size:12px;font-weight:bold;">WINNER</span>
-</div>
-</td>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🏅</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">EDI</span>
-<span style="float:right;color:#06b6d4;font-family:monospace;font-size:12px;font-weight:bold;">FINALIST</span>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🏅</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">IIT Kanpur Competition</span>
-<span style="float:right;color:#06b6d4;font-family:monospace;font-size:12px;font-weight:bold;">FINALIST</span>
-</div>
-</td>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🏅</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">IIITM Gwalior Competition</span>
-<span style="float:right;color:#06b6d4;font-family:monospace;font-size:12px;font-weight:bold;">FINALIST</span>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🏆</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">Hackmageddon — REC</span>
-<span style="float:right;color:#a855f7;font-family:monospace;font-size:12px;font-weight:bold;">TOP 36</span>
-</div>
-</td>
-<td width="50%" style="padding:6px;">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🥇</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">District Technical Expo</span>
-<span style="float:right;color:#00ff88;font-family:monospace;font-size:12px;font-weight:bold;">1ST PLACE</span>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:6px;" colspan="2">
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:10px;padding:14px 18px;text-align:left;">
-<span style="color:#fbbf24;font-size:14px;">🥈</span>
-<span style="color:#f1f5f9;font-size:13px;margin-left:8px;">State University-Level Competition</span>
-<span style="float:right;color:#f472b6;font-family:monospace;font-size:12px;font-weight:bold;">2ND PLACE</span>
-</div>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🥇_Smart_India_Hackathon_(Internal)-WINNER-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/><br/><br/>
+<img src="https://img.shields.io/badge/🏅_EDI-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/><br/><br/>
+<img src="https://img.shields.io/badge/🏅_IIT_Kanpur-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=A78BFA"/><br/><br/>
+<img src="https://img.shields.io/badge/🏅_IIITM_Gwalior-FINALIST-0B0F1A?style=for-the-badge&labelColor=111827&color=F472B6"/><br/><br/>
+<img src="https://img.shields.io/badge/🏆_Hackmageddon_REC-TOP_36-0B0F1A?style=for-the-badge&labelColor=111827&color=FBBF24"/><br/><br/>
+<img src="https://img.shields.io/badge/🥇_District_Technical_Expo-1ST_PLACE-0B0F1A?style=for-the-badge&labelColor=111827&color=34D399"/><br/><br/>
+<img src="https://img.shields.io/badge/🥈_State_University_Competition-2ND_PLACE-0B0F1A?style=for-the-badge&labelColor=111827&color=22D3EE"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════ INTERESTS ═══════════════════ -->
 
 <div align="center">
 
-<h2 style="font-family:monospace;color:#a855f7;border-bottom:2px solid #a855f7;display:inline-block;padding-bottom:6px;">
-// AREAS OF INTEREST
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Areas+of+Interest" alt="Areas of Interest"/>
+</h3>
 
 <br/>
 
-<p style="color:#64748b;font-family:monospace;font-size:12px;letter-spacing:3px;margin:0 0 16px 0;">SOFTWARE ENGINEERING</p>
-
-<table width="95%">
-<tr>
-<td width="20%" valign="top" style="padding:5px;">
-<div style="background:linear-gradient(180deg,#0a0a0f,#111827);border:1px solid #00ff88;border-radius:10px;padding:16px 10px;text-align:center;">
-<p style="color:#00ff88;font-family:monospace;font-size:11px;font-weight:bold;margin:0 0 8px 0;">BACKEND</p>
-<p style="color:#64748b;font-size:11px;line-height:1.6;margin:0;">APIs / DB<br/>Redis / Kafka</p>
-</div>
-</td>
-<td width="20%" valign="top" style="padding:5px;">
-<div style="background:linear-gradient(180deg,#0a0a0f,#111827);border:1px solid #06b6d4;border-radius:10px;padding:16px 10px;text-align:center;">
-<p style="color:#06b6d4;font-family:monospace;font-size:11px;font-weight:bold;margin:0 0 8px 0;">FULL STACK</p>
-<p style="color:#64748b;font-size:11px;line-height:1.6;margin:0;">React<br/>Next.js</p>
-</div>
-</td>
-<td width="20%" valign="top" style="padding:5px;">
-<div style="background:linear-gradient(180deg,#0a0a0f,#111827);border:1px solid #a855f7;border-radius:10px;padding:16px 10px;text-align:center;">
-<p style="color:#a855f7;font-family:monospace;font-size:11px;font-weight:bold;margin:0 0 8px 0;">AI</p>
-<p style="color:#64748b;font-size:11px;line-height:1.6;margin:0;">AI Agents<br/>AI APIs</p>
-</div>
-</td>
-<td width="20%" valign="top" style="padding:5px;">
-<div style="background:linear-gradient(180deg,#0a0a0f,#111827);border:1px solid #fbbf24;border-radius:10px;padding:16px 10px;text-align:center;">
-<p style="color:#fbbf24;font-family:monospace;font-size:11px;font-weight:bold;margin:0 0 8px 0;">IoT</p>
-<p style="color:#64748b;font-size:11px;line-height:1.6;margin:0;">ESP32<br/>Arduino</p>
-</div>
-</td>
-<td width="20%" valign="top" style="padding:5px;">
-<div style="background:linear-gradient(180deg,#0a0a0f,#111827);border:1px solid #f472b6;border-radius:10px;padding:16px 10px;text-align:center;">
-<p style="color:#f472b6;font-family:monospace;font-size:11px;font-weight:bold;margin:0 0 8px 0;">BLOCKCHAIN</p>
-<p style="color:#64748b;font-size:11px;line-height:1.6;margin:0;">Web3<br/>Smart Contracts</p>
-</div>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/BACKEND-APIs_•_DB_•_Redis_•_Kafka-111827?style=for-the-badge&labelColor=0B0F1A&color=34D399"/>
+<img src="https://img.shields.io/badge/FULL_STACK-React_•_Next.js-111827?style=for-the-badge&labelColor=0B0F1A&color=22D3EE"/>
+<img src="https://img.shields.io/badge/AI-AI_Agents_•_AI_APIs-111827?style=for-the-badge&labelColor=0B0F1A&color=A78BFA"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/IoT-ESP32_•_Arduino-111827?style=for-the-badge&labelColor=0B0F1A&color=FBBF24"/>
+<img src="https://img.shields.io/badge/BLOCKCHAIN-Web3_•_Smart_Contracts-111827?style=for-the-badge&labelColor=0B0F1A&color=F472B6"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════ LEARNING ═══════════════════ -->
 
 <div align="center">
 
-<h2 style="font-family:monospace;color:#06b6d4;border-bottom:2px solid #06b6d4;display:inline-block;padding-bottom:6px;">
-// CURRENTLY LEARNING
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Currently+Learning" alt="Currently Learning"/>
+</h3>
 
-<table width="95%">
-<tr>
-<td width="50%" valign="top" style="padding:8px;">
+<br/>
 
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:20px;text-align:left;">
-<p style="color:#00ff88;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">📖 STRENGTHENING</p>
-<p style="color:#94a3b8;font-size:13px;line-height:2.2;margin:0;">
-Data Structures & Algorithms<br/>
-Python & Java<br/>
-Backend Development<br/>
-Database Systems<br/>
-System Design
+<p style="color:#34D399;font-family:monospace;font-size:12px;letter-spacing:3px;margin:0 0 12px 0;">📖 STRENGTHENING</p>
+<p style="color:#94A3B8;font-size:14px;line-height:2.2;margin:0 0 28px 0;">
+Data Structures & Algorithms · Python & Java · Backend Development<br/>
+Database Systems · System Design
 </p>
-</div>
 
-</td>
-<td width="50%" valign="top" style="padding:8px;">
-
-<div style="background:#0a0a0f;border:1px solid #1e293b;border-radius:12px;padding:20px;text-align:left;">
-<p style="color:#a855f7;font-family:monospace;font-size:12px;letter-spacing:2px;margin:0 0 14px 0;">🔍 EXPLORING</p>
-<p style="color:#94a3b8;font-size:13px;line-height:2.2;margin:0;">
-Microservices & Distributed Systems<br/>
-Cloud Computing<br/>
-Kafka<br/>
-AI Applications<br/>
-Blockchain
+<p style="color:#A78BFA;font-family:monospace;font-size:12px;letter-spacing:3px;margin:0 0 12px 0;">🔍 EXPLORING</p>
+<p style="color:#94A3B8;font-size:14px;line-height:2.2;margin:0;">
+Microservices & Distributed Systems · Cloud Computing · Kafka<br/>
+AI Applications · Blockchain
 </p>
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ PHILOSOPHY ═══════════════════ -->
-
 <div align="center">
 
-<div style="background:linear-gradient(135deg,rgba(0,255,136,0.05),rgba(168,85,247,0.05));border:1px solid #1e293b;border-radius:16px;padding:28px 36px;max-width:700px;margin:0 auto;">
-
-<p style="color:#f1f5f9;font-family:monospace;font-size:15px;letter-spacing:1px;margin:0 0 16px 0;">
+<p style="font-family:monospace;color:#E2E8F0;font-size:15px;letter-spacing:1px;margin:0 0 12px 0;">
 Learn → Build → Break → Debug → Improve → Repeat
 </p>
-
-<p style="color:#64748b;font-size:14px;font-style:italic;margin:0;">
+<p style="color:#64748B;font-size:14px;font-style:italic;margin:0;">
 "Don't just learn technology. Build something meaningful with it."
 </p>
 
 </div>
 
-</div>
-
 <br/>
 
-<!-- ═══════════════════ ANALYTICS ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="900"/>
 
 <div id="analytics" align="center">
 
-<h2 style="font-family:monospace;color:#34d399;border-bottom:2px solid #34d399;display:inline-block;padding-bottom:6px;">
-// GITHUB ANALYTICS
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=GitHub+Analytics" alt="GitHub Analytics"/>
+</h3>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9&border_radius=12"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Gokulakrishnan610&hide_border=true&background=0a0a0f&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=34D399&icon_color=34D399&text_color=C9D1D9&border_radius=16"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=Gokulakrishnan610&hide_border=true&background=0B0F1A&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=16"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan610&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=C9D1D9&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan610&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=34D399&text_color=C9D1D9&border_radius=16"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=dark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 <br/><br/>
 
@@ -689,34 +353,32 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&bg_color=0a0a0f&color=00ff88&line=00ff88&point=C9D1D9&area=true&area_color=00ff88&title_color=00ff88&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&bg_color=0B0F1A&color=34D399&line=34D399&point=C9D1D9&area=true&area_color=34D399&title_color=34D399&hide_border=true"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
 <div align="center">
 
-<h2 style="font-family:monospace;color:#00ff88;border-bottom:2px solid #00ff88;display:inline-block;padding-bottom:6px;">
-// LET'S CONNECT
-</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Let's+Connect" alt="Let's Connect"/>
+</h3>
 
 <br/>
 
-<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Gokulakrishnan610-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Gokulakrishnan%20K-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=1a1a2e"/></a>
-<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Gokulakrishnan610"><img src="https://img.shields.io/badge/GitHub-Gokulakrishnan610-0B0F1A?style=for-the-badge&logo=github&logoColor=34D399"/></a>
+<a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2"><img src="https://img.shields.io/badge/LinkedIn-Gokulakrishnan%20K-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="mailto:gokulakrishnankadhirvelu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
 
 <br/><br/>
 
-<p style="color:#64748b;font-family:monospace;font-size:13px;letter-spacing:2px;margin:0;">
+<p style="color:#64748B;font-family:monospace;font-size:13px;letter-spacing:2px;margin:0;">
 Learn continuously. Build intelligently. Solve meaningfully.
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0f3460&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:111827,100:1E1B4B&height=140&section=footer&animation=twinkling"/>
 
 </div>
