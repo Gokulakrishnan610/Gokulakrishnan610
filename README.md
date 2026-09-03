@@ -28,7 +28,7 @@
 
   <br><br>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9"/>
+  <img height="160em" src="https://github-readme-stats.kizov.com/api?username=Gokulakrishnan610&show_icons=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9"/>
 
 </div>
 
@@ -231,12 +231,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulakrishnan610&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.kizov.com/api?username=Gokulakrishnan610&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.kizov.com/api/top-langs/?username=Gokulakrishnan610&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
+  <img src="https://streak-stats.demolab.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
 </div>
 
 ---
@@ -265,7 +265,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.demolab.com/graph?username=Gokulakrishnan610&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
 
   <br><br>
 
