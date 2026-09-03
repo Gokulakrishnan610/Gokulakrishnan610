@@ -1,32 +1,42 @@
 <div align="center">
 
-  <!-- Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&stroke=00D4FF&strokeWidth=1.5&text=Gokulakrishnan%20(GK)&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SDE%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20SIH%202024%20Winner%20%7C%20President%2C%20DEVS%20REC&descSize=14&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1a1a2e,100:16213e&height=160&section=header&animation=twinkling"/>
 
-  <img src="https://github.com/Gokulakrishnan610.png" width="115" style="margin-top:-75px;border-radius:50%;border:3px solid #00D4FF;box-shadow:0 0 30px rgba(0,212,255,0.45);"/>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=🚀+Building+Production-Ready+AI+Products;🤖+AI+Agents+%7C+RAG+%7C+LLM+Applications;🌐+Full-Stack+%7C+Cloud+%7C+Mobile+%7C+IoT" alt="Typing SVG"/>
+  <img src="https://github.com/Gokulakrishnan610.png" width="120" style="margin-top:-70px;border-radius:50%;border:3px solid #34D399;box-shadow:0 0 35px rgba(52,211,153,0.4);"/>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/📍_Chennai-India-00D4FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🎓_REC-CSE-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🎯_Graduation-Dec_2027-A855F7?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/📊_CGPA-7.8-34D399?style=for-the-badge&labelColor=0D1117"/>
+  <h1>Gokulakrishnan <span style="color:#34D399;">(GK)</span></h1>
+  <h3>Software Engineer · AI/ML · Full-Stack · Cloud</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1000&color=34D399&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Products;Crafting+AI+Agents+%26+RAG+Systems;Full-Stack+%2B+Cloud+%2B+Mobile+Engineer;SIH+2024+Winner;President+%40+DEVS+REC"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/AI_Agents-●-0D1117?style=flat-square&labelColor=34D399&color=0D1117"/>
+  <img src="https://img.shields.io/badge/RAG-●-0D1117?style=flat-square&labelColor=22D3EE&color=0D1117"/>
+  <img src="https://img.shields.io/badge/LLM_Apps-●-0D1117?style=flat-square&labelColor=A78BFA&color=0D1117"/>
+  <img src="https://img.shields.io/badge/Full--Stack-●-0D1117?style=flat-square&labelColor=F472B6&color=0D1117"/>
+  <img src="https://img.shields.io/badge/Cloud-●-0D1117?style=flat-square&labelColor=FBBF24&color=0D1117"/>
+  <img src="https://img.shields.io/badge/IoT-●-0D1117?style=flat-square&labelColor=FF6B6B&color=0D1117"/>
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/📍_Chennai-India-34D399?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎓_REC-CSE-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎯_Dec_2027-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+
+  <br><br>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gokulakrishnan610&show_icons=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=🎯+About+Me" alt="About Me"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 🎯 **About Me**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380">
@@ -42,9 +52,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+Hackathons+%26+Achievements" alt="Achievements"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 🏆 **Hackathons & Achievements**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
@@ -53,6 +63,9 @@
 ### 🥇 **Smart India Hackathon 2024 — WINNER**
 - **National-level hackathon winner** — built and shipped under intense competition
 - Strong track record in **team leadership, rapid prototyping & real-world problem solving**
+
+### 🏅 **PALS Aquatic Drone Challenge 2025 — FINALIST**
+- Reached **finalist** stage in the PALS Aquatic Drone Challenge 2025
 
 ### 🏅 **IIT Kanpur Hackathon — Top 6**
 - Placed among the **top 6 teams** in a competitive national hackathon
@@ -71,9 +84,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=👑+Leadership+%26+Activities" alt="Leadership"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 👑 **Leadership & Activities**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180">
@@ -90,9 +103,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=💼+Work+Experience" alt="Experience"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 💼 **Work Experience**
 
 ### 🚀 **Software Engineering Intern — Firstsource Solutions Ltd.**
 **Dec 2025 – Apr 2026** | **Enterprise Transformation Office (ETO)** | Remote
@@ -108,9 +121,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=💻+Tech+Stack" alt="Tech Stack"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 💻 **Tech Stack**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
@@ -162,9 +175,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=🚀+Project+Portfolio" alt="Projects"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 🚀 **Project Portfolio**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"><br><br>
@@ -207,14 +220,11 @@
 **RAG + NLP** | **Explainable AI**
 - RAG-grounded feedback, criterion-level scoring, confidence escalation & ensemble scoring
 
-### 🔗 **INSYNC** — *Real-World Software Solution*
-**Full-Stack** | **[View on GitHub](https://github.com/Gokulakrishnan610/INSYNC)**
-
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Analytics" alt="Analytics"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
@@ -226,14 +236,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Gokulakrishnan610&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌐+Connect+%26+Collaborate" alt="Connect"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-10d3aa3d59f2.gif" width="100%"/>
+
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="90">
@@ -249,9 +259,6 @@
   <a href="mailto:gokulakrishnankadhirvelu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://github.com/Gokulakrishnan610/INSYNC">
-    <img src="https://img.shields.io/badge/🔗_INSYNC-View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
 </p>
 
 ---
@@ -262,7 +269,7 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
   <br><br>
 
@@ -270,7 +277,7 @@
 
   <br><br>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:0f3460&height=110&stroke=00D4FF&strokeWidth=1.5&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
