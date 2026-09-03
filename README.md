@@ -1,106 +1,131 @@
 <div align="center">
 
-  <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokulakrishnan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=16&descAlignY=51"/>
+  <!-- Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&stroke=00D4FF&strokeWidth=1.5&text=Gokulakrishnan%20(GK)&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SDE%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20SIH%202024%20Winner%20%7C%20President%2C%20DEVS%20REC&descSize=14&descAlignY=58"/>
 
-</div>
-
-<div align="center">
-
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Building+Real-World+Software+Solutions;🤖+Crafting+AI+Agents+%26+Intelligent+Workflows;🌐+Full-Stack+%7C+Backend+%7C+IoT+%7C+Blockchain" alt="Typing SVG"/>
+  <img src="https://github.com/Gokulakrishnan610.png" width="115" style="margin-top:-75px;border-radius:50%;border:3px solid #00D4FF;box-shadow:0 0 30px rgba(0,212,255,0.45);"/>
 
   <br><br>
 
-  <img src="https://github.com/Gokulakrishnan610.png" width="120" style="border-radius:50%;border:3px solid #00D4FF;box-shadow:0 0 25px rgba(0,212,255,0.4);"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=🚀+Building+Production-Ready+AI+Products;🤖+AI+Agents+%7C+RAG+%7C+LLM+Applications;🌐+Full-Stack+%7C+Cloud+%7C+Mobile+%7C+IoT" alt="Typing SVG"/>
 
   <br><br>
 
-  <!-- Profile Trophies -->
+  <img src="https://img.shields.io/badge/📍_Chennai-India-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎓_REC-CSE-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎯_Graduation-Dec_2027-A855F7?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📊_CGPA-7.8-34D399?style=for-the-badge&labelColor=0D1117"/>
+
+  <br><br>
+
   <img src="https://github-profile-trophy.vercel.app/?username=Gokulakrishnan610&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🎯 **Developer Vision**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=🎯+About+Me" alt="About Me"/>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380">
 </div>
 
 > *"Don't just learn technology. Build something meaningful with it."*
 
-🎓 **B.E. Computer Science & Engineering** @ Rajalakshmi Engineering College (Class of 2027)  
-📍 **Chennai, India** — Building software that solves real problems  
-🤖 **AI & Backend Engineer** — Agents, APIs, automation & intelligent workflows  
-🌐 **Full-Stack Developer** — From concept to deployment  
-⚡ **Problem Solver** — DSA · System Design · Distributed Systems  
+🎓 **B.E. CSE** @ Rajalakshmi Engineering College, Chennai — **Class of Dec 2027**  
+👑 **President, DEVS REC** — Leading 2500+ tech enthusiasts & organizing events like **DevSprint**  
+🚀 **Software Engineering Intern** @ Firstsource Solutions (ETO) — AI agents & production systems  
+💻 **Full-Stack + AI Engineer** — React/Next.js · Django/FastAPI · Cloud · Mobile  
+🏆 **SIH 2024 Winner** — Hackathon builder, team leader & technical problem solver  
 
 ---
 
-## 🏆 **Competitive Achievements**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+Hackathons+%26+Achievements" alt="Achievements"/>
 </div>
 
-### 🥇 **Smart India Hackathon — Internal Round | WINNER**
-- Competed and **won** the internal round at Rajalakshmi Engineering College
-- Built an innovative tech solution under intense hackathon pressure
-- **Recognition** for problem-solving and rapid prototyping skills
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
+</div>
 
-### 🥇 **District Technical Expo — 1st Place**
+### 🥇 **Smart India Hackathon 2024 — WINNER**
+- **National-level hackathon winner** — built and shipped under intense competition
+- Strong track record in **team leadership, rapid prototyping & real-world problem solving**
+
+### 🏅 **IIT Kanpur Hackathon — Top 6**
+- Placed among the **top 6 teams** in a competitive national hackathon
+
+### 🥇 **Agni Expo — District Level | 1st Place**
 - Awarded **first place** for technical innovation and project execution
-- Demonstrated end-to-end software development capabilities
 
-### 🥈 **State University-Level Competition — 2nd Place**
-- Secured **runner-up** among university-level competitors statewide
+### 🥈 **Prist University Expo — State Level | 2nd Place**
+- Secured **runner-up** at state-level technical exhibition
 
-### 🏅 **EDI | IIT Kanpur | IIITM Gwalior — FINALIST**
-- Reached **finalist** stage across multiple national-level competitions
-- Consistent track record of competitive programming & hackathon excellence
+### 🏆 **IEEE Event — Innovator's Pitch Award**
+- Recognized for **innovation and pitching** at an IEEE-organized event
 
-### 🏆 **Hackmageddon — REC | Top 36**
-- Placed in the **top 36** among participants at college hackathon
+### 🏅 **EDII · IIITM Gwalior · Hackmageddon — Finalist / Top Finishes**
+- Consistent performer across **multiple national & college-level hackathons** (Top 20–36 range)
 
 ---
 
-## 💼 **Professional Experience**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=👑+Leadership+%26+Activities" alt="Leadership"/>
 </div>
 
-### 🚀 **Software Engineering Intern — Firstsource Solutions**
-**Dec 2025 – Apr 2026** | **AI & Full-Stack**
-- Built **AI agents** and intelligent workflow automation
-- Developed **AI applications** with production-grade integrations
-- Integrated **ElevenLabs** (voice) & **Deepgram** (speech) APIs
-- Delivered **full-stack** features and **backend services** at scale
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180">
+</div>
+
+### **President — DEVS REC**
+- Leading the **largest tech community** on campus with **2500+ members**
+- Organizing **DevSprint**, workshops, hackathons & technical events
+- Mentoring developers and driving **technical club growth**
+
+### **Titanium Website Team — Technical Lead**
+- Leading/coordinating **website development** for major college events
+- Combining **technical execution + team coordination + product thinking**
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=💼+Work+Experience" alt="Experience"/>
+</div>
+
+### 🚀 **Software Engineering Intern — Firstsource Solutions Ltd.**
+**Dec 2025 – Apr 2026** | **Enterprise Transformation Office (ETO)** | Remote
+- Building **AI agents** and intelligent workflow automation
+- Developing **AI-powered applications** with production-grade integrations
+- Working with **ElevenLabs, Deepgram, Gemini** & speech/voice AI pipelines
+- Delivering **full-stack features** and **backend services** at enterprise scale
 
 ### 🏫 **Software Developer Intern — Rajalakshmi Engineering College**
 **Apr 2025 – Nov 2025** | **Application Development**
-- Built a **timetable scheduling system** for campus operations
-- Developed a **hostel management application** digitizing workflows
-- Focused on **software optimization** and real-world problem solving
+- Built **timetable scheduling system** & **hostel management application**
+- Focused on **software optimization**, database design & campus digitization
 
 ---
 
-## 💻 **Tech Stack**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=💻+Tech+Stack" alt="Tech Stack"/>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
 </div>
 
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,go,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,js,php" />
 </p>
 
 ### **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ### **Backend**
@@ -108,86 +133,91 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
-### **Databases & Caching**
+### **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
 </p>
 
-### **DevOps & Cloud**
+### **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure,kafka,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117"/>
 </p>
 
-### **CS Fundamentals**
+### **AI / ML**
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Arrays_•_Trees_•_Graphs_•_DP-00D4FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/System_Design-Microservices_•_REST_•_Cloud-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/CS_Core-OOP_•_DBMS_•_OS_•_Networks-A855F7?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+### **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,nginx,linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ---
 
-## 🚀 **Project Portfolio**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=🚀+Project+Portfolio" alt="Projects"/>
 </div>
 
-### 🎓 **AI-Based Descriptive Answer Evaluation (IPS17)** — *Final Year Project*
-**RAG + NLP + AI Evaluation** | **Explainable AI**
-- RAG-grounded feedback with **criterion-level scoring**
-- Confidence-based escalation & **ensemble scoring** pipeline
-- Built for explainable, production-grade academic evaluation
-- **Tags**: `RAG` `NLP` `AI Evaluation` `Python`
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"><br><br>
+</div>
+
+### 🎤 **AI Interview Preparation Platform** — *AI-Powered Interview Simulator*
+**Next.js + Django + FastAPI + LiveKit** | **Production Architecture**
+- Real-time AI interview simulation with **Gemini, Deepgram, Google TTS & Beyond Presence avatars**
+- **LiveKit/WebRTC** for real-time communication · Firebase for transcripts & scores
+- Full-stack platform: session management, evaluation, feedback & realistic interview UX
+
+### 📚 **AI Learning / Education Platform** — *PDF-to-Video LMS*
+**Full-Stack + Android** | **AI + EdTech**
+- Converts **PDFs & topics into mother-tongue video lessons**, quizzes & personal AI tutor
+- Complete **LMS** with Admin, Faculty, Student roles, course catalog & progress tracking
+- Scene-plan based video generation with **TTS + deterministic visuals** (cost-efficient approach)
+
+### 🐔 **AI + IoT Poultry Welfare Monitoring** — *Smart Farm System*
+**ESP32 + Flutter + Flask + ML** | **IoT + AI**
+- Monitors **ammonia, H2S, temperature & humidity** via MQ/DHT sensors
+- Real-time alerts, visualizations & automated actions (buzzer, LED, motor)
+- **Firebase + Flutter** dashboard for farm operators
+
+### 🌊 **Disaster Management App** — *Emergency Prediction*
+**Flutter** | **OpenWeatherMap Integration**
+- Weather-based disaster prediction: **heatwave, storm, flood alerts**
+- No-login emergency access with prediction cards & real-time alerts
+
+### 📡 **MeshTalk** — *BLE Mesh Messaging*
+**Android/Kotlin** | **Security-First P2P**
+- **BLE multi-hop messaging** with device discovery, GATT & mesh forwarding
+- Security direction: **X25519, HKDF, ChaCha20-Poly1305** forward-secrecy design
+
+### 🗑️ **Waste-Collecting Boat** — *Computer Vision*
+**YOLOv8 + Raspberry Pi 5 + Pixhawk** | **CV + Robotics**
+- **YOLO-based waste detection** with Roboflow datasets on embedded hardware
+- Motor/ESC control with ultrasonic sensors for autonomous waste collection
+
+### 🎓 **AI Answer Evaluation (IPS17)** — *Final Year Project*
+**RAG + NLP** | **Explainable AI**
+- RAG-grounded feedback, criterion-level scoring, confidence escalation & ensemble scoring
 
 ### 🔗 **INSYNC** — *Real-World Software Solution*
-**Full-Stack Development** | **Problem Solving**
-- Software project solving a **practical real-world problem**
-- End-to-end application development from design to deployment
-- **🔗 [View on GitHub](https://github.com/Gokulakrishnan610/INSYNC)**
-
-### 📅 **Timetable Scheduler** — *Campus Automation*
-**Scheduling + Optimization** | **Backend Development**
-- Intelligent timetable scheduling built during software dev internship
-- Automated scheduling logic reducing manual campus overhead
-- **Tags**: `Scheduling` `Automation` `Backend` `Optimization`
-
-### 🏠 **Hostel Application** — *Campus Management*
-**Application Development** | **Database Management**
-- Digitized hostel-related workflows for students and administration
-- Full-stack app with database-driven operations
-- **Tags**: `App Dev` `Database` `Automation`
+**Full-Stack** | **[View on GitHub](https://github.com/Gokulakrishnan610/INSYNC)**
 
 ---
 
-## 🔬 **Areas of Interest**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="100">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Analytics" alt="Analytics"/>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BACKEND-APIs_•_DB_•_Redis_•_Kafka-00D4FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/FULL_STACK-React_•_Next.js-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/AI-AI_Agents_•_AI_APIs-A855F7?style=for-the-badge&labelColor=0D1117"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT-ESP32_•_Arduino-FBBF24?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-Web3_•_Smart_Contracts-34D399?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-### **📖 Currently Strengthening**
-Data Structures & Algorithms · Python & Java · Backend Development · Database Systems · System Design
-
-### **🔍 Currently Exploring**
-Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applications · Blockchain
-
----
-
-## 📊 **GitHub Analytics**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
 </div>
 
 <div align="center">
@@ -201,24 +231,12 @@ Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applicatio
 
 ---
 
-## ⚡ **Development Philosophy**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌐+Connect+%26+Collaborate" alt="Connect"/>
 </div>
 
-**Learn → Build → Break → Debug → Improve → Repeat**
-
-- **Problem → Research → Design → Build → Test → Deploy → Impact**
-- Focused on shipping software that creates **real-world impact**
-- Always learning, always building, always improving
-
----
-
-## 🌐 **Connect & Collaborate**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d55c-720f-44a0-b6bd-04bebc058587.gif" width="90">
 </div>
 
 <p align="center">
@@ -229,7 +247,7 @@ Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applicatio
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:gokulakrishnankadhirvelu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gokulakrishnankadhirvelu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://github.com/Gokulakrishnan610/INSYNC">
     <img src="https://img.shields.io/badge/🔗_INSYNC-View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
@@ -240,29 +258,25 @@ Microservices & Distributed Systems · Cloud Computing · Kafka · AI Applicatio
 
 <div align="center">
 
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulakrishnan610&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
 
   <br><br>
 
-  <!-- Contribution Snake -->
   <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
   <br><br>
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
 
   <br><br>
 
-  <!-- Closing Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:0f3460&height=110&stroke=00D4FF&strokeWidth=1.5&section=footer"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>💡 "Learn. Build. Ship. Repeat." 💡</h3>
-  <p><em>Turning ideas into software — one commit at a time.</em></p>
+  <h3>💡 "Code. Create. Ship." 💡</h3>
+  <p><em>Software Engineering + AI + Full-Stack + Cloud — building products that matter.</em></p>
 </div>
