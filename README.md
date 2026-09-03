@@ -30,6 +30,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0D1117?style=flat&labelColor=34D399&color=0D1117" width="420"/>
+</div>
+
 ## 🎯 **About Me**
 
 <div align="center">
@@ -210,9 +214,28 @@
 
 <div align="center">
 
+  <img src="https://img.shields.io/github/followers/Gokulakrishnan610?label=Followers&style=for-the-badge&logo=github&color=34D399&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/Gokulakrishnan610/Gokulakrishnan610?label=Profile%20Stars&style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/forks/Gokulakrishnan610/Gokulakrishnan610?label=Forks&style=for-the-badge&logo=github&color=A78BFA&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Gokulakrishnan610/Gokulakrishnan610?label=Monthly%20Commits&style=for-the-badge&logo=github&color=F472B6&labelColor=0D1117"/>
+
+  <br><br>
+
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Gokulakrishnan610" alt="GitHub Streak"/>
   </a>
+
+  <br><br>
+
+  <img src="https://ghchart.rshah.org/34D399/Gokulakrishnan610" alt="Contribution Chart"/>
+
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
 
 </div>
 
@@ -235,14 +258,6 @@
 ---
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/Gokulakrishnan610/Gokulakrishnan610/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Gokulakrishnan610&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
-
-  <br><br>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=twinkling"/>
 
