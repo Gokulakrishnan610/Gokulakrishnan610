@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-labelledby="title desc">
+<title id="title">Code. Create. Ship.</title>
+<desc id="desc">Gokulakrishnan K — Gokulakrishnan610. Code. Create. Ship.</desc>
+<defs>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b2b"/><stop offset=".65" stop-color="#080d17"/><stop offset="1" stop-color="#111426"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6ce5e8"/><stop offset="1" stop-color="#baa2fa"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#327c91" stop-opacity=".24"/><stop offset="1" stop-color="#327c91" stop-opacity="0"/></radialGradient>
+<pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#adc9e3" opacity=".1"/></pattern>
+</defs>
+<style>@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}@keyframes travel{to{stroke-dashoffset:-120}}@keyframes breathe{0%,100%{opacity:.4}50%{opacity:1}}@keyframes wave{0%,100%{opacity:.12}50%{opacity:.5}}.float{animation:float 9s ease-in-out infinite}.orbit{animation:travel 18s linear infinite}.beacon{animation:breathe 4s ease-in-out infinite}.city-glow{animation:wave 7s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.float,.orbit,.beacon,.city-glow{animation:none!important}}</style>
+<rect width="1200" height="185" rx="20" fill="#080d17"/>
+<rect x=".5" y=".5" width="1199" height="184" rx="19.5" fill="url(#surface)" stroke="#243347"/>
+<rect x="1" y="1" width="1198" height="183" rx="19" fill="url(#grain)"/>
+<ellipse cx="1080" cy="90" rx="248" ry="166" fill="url(#halo)"/>
+<text x="36" y="40" fill="#6ce5e8" font-size="10" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-weight="400" letter-spacing="1.5" >ALWAYS A WORK IN PROGRESS</text>
+<text x="34" y="109" fill="#ecf4fb" font-size="54" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="-2">Code. Create. Ship.</text>
+<text x="37" y="146" fill="#99aabd" font-size="17" font-family="Arial,Helvetica,sans-serif" font-weight="400" >Curiosity starts it. Craft makes it real.</text>
+<g fill="none" stroke="#6ce5e8" stroke-width="1.1"><path d="M970 35l104 60-104 60-104-60z" opacity=".20"/><path d="M1000 35l104 60-104 60-104-60z" opacity=".35"/><path d="M1030 35l104 60-104 60-104-60z" opacity=".60"/><path class="orbit" d="M1060 35l104 60-104 60-104-60z" stroke-dasharray="8 12" opacity=".9"/></g>
+<circle class="beacon" cx="1060" cy="95" r="5" fill="#d0ed88"/>
+</svg>

@@ -9,14 +9,14 @@
   <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
   <a href="#the-journey">Journey</a> &nbsp; / &nbsp;
   <a href="#contribution-city">Contribution city</a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2">LinkedIn ↗</a>
+  <a href="{{LINKEDIN}}">LinkedIn ↗</a>
 </p>
 
 <p align="center"><strong>I build useful things at the intersection of software, intelligence, and the physical world.</strong><br />From real-time voice agents to offline mesh networks — curious about the whole system.</p>
 
 <p align="center">
-  <a href="mailto:gokulakrishnankadhirvelu@gmail.com">Email me ↗</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Gokulakrishnan610?tab=repositories">Explore my repositories ↗</a> &nbsp; · &nbsp;
+  <a href="mailto:{{EMAIL}}">Email me ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/{{USERNAME}}?tab=repositories">Explore my repositories ↗</a> &nbsp; · &nbsp;
   Chennai, India
 </p>
 
@@ -34,62 +34,13 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 Six projects across the stack. Open a repository to explore the implementation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / VOICE AI</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/interviewprep">AI Interview Platform ↗</a></h3>
-<p>Real-time interview practice with voice agents, avatar experiences, session feedback, and evaluation.</p>
-<p><code>Next.js · Django · FastAPI · LiveKit</code></p>
-<sub>4 stars · 0 forks</sub>
-</td>
-<td width="50%" valign="top">
-<sub>02 / AI + EDUCATION</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/LMS">ExplifyAI LMS ↗</a></h3>
-<p>An academic learning platform with video lessons, quizzes, progress tracking, and a native Android student app.</p>
-<p><code>React · TypeScript · Django · Kotlin</code></p>
-<sub>2 stars · 0 forks</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 / OFFLINE SYSTEMS</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/MeshTalk">MeshTalk ↗</a></h3>
-<p>Infrastructure-free messaging through Bluetooth Low Energy, peer discovery, and multi-hop mesh forwarding.</p>
-<p><code>Kotlin · Android · BLE · Cryptography</code></p>
-<sub>3 stars · 0 forks</sub>
-</td>
-<td width="50%" valign="top">
-<sub>04 / AI + IOT</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/chikkom">Poultry Welfare Monitoring ↗</a></h3>
-<p>Environmental sensing, alerts, and a mobile dashboard for monitoring poultry welfare.</p>
-<p><code>ESP32 · Flutter · Flask · Firebase</code></p>
-<sub>3 stars · 0 forks</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>05 / RAG + NLP</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/Finalyearproject">AI Answer Evaluation ↗</a></h3>
-<p>Descriptive-answer evaluation exploring grounded feedback, criterion-level scoring, and confidence-based escalation.</p>
-<p><code>RAG · NLP · Explainable AI</code></p>
-<sub>1 star · 0 forks</sub>
-</td>
-<td width="50%" valign="top">
-<sub>06 / WEB + COMMUNITY</sub>
-<h3><a href="https://github.com/Gokulakrishnan610/Titanium">Titanium ↗</a></h3>
-<p>College event web development bringing together technical execution, collaboration, and product thinking.</p>
-<p><code>TypeScript · Web applications</code></p>
-<sub>1 star · 0 forks</sub>
-</td>
-</tr>
-</table>
+{{PROJECTS}}
 
 <details>
 <summary><strong>More experiments & campus tools</strong></summary>
 
-- **[INSYNC](https://github.com/Gokulakrishnan610/INSYNC)** — software experimentation and practical problem solving.
-- **[IoT](https://github.com/Gokulakrishnan610/IOT)** — connected-device experiments.
+- **[INSYNC](https://github.com/{{USERNAME}}/INSYNC)** — software experimentation and practical problem solving.
+- **[IoT](https://github.com/{{USERNAME}}/IOT)** — connected-device experiments.
 - **Disaster management app** — Flutter and weather-driven emergency prediction.
 - **Waste-collecting boat** — computer vision and embedded robotics with YOLO, Raspberry Pi, and Pixhawk.
 - **Campus digitization** — timetable scheduling and hostel management, developed during my REC internship.
@@ -150,21 +101,16 @@ President at **DEVS REC** · **DevSprint** events and workshops · Technical lea
   <img src="./assets/dashboard.svg" width="100%" alt="GitHub public repository metrics and primary-language distribution, generated from the dated snapshot below." />
 </p>
 
-**40 original public repositories** · **57 stars received** · **3 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
+{{METRICS_SUMMARY}}
 
 **Recently pushed repositories**
 
-- **[LMS](https://github.com/Gokulakrishnan610/LMS)** · TypeScript · pushed 2026-08-21
-- **[Finalyearproject](https://github.com/Gokulakrishnan610/Finalyearproject)** · Language not reported · pushed 2026-08-21
-- **[interviewprep](https://github.com/Gokulakrishnan610/interviewprep)** · Python · pushed 2026-07-17
-- **[MeshTalk](https://github.com/Gokulakrishnan610/MeshTalk)** · Kotlin · pushed 2026-05-19
-- **[Cloud_review](https://github.com/Gokulakrishnan610/Cloud_review)** · Language not reported · pushed 2026-05-13
+{{RECENT_REPOS}}
 
 <details>
 <summary>Recent public activity</summary>
 
-- 2026-08-21 · Pushed code to [Gokulakrishnan610/LMS](https://github.com/Gokulakrishnan610/LMS)
-- 2026-08-21 · Created a repository or ref in [Gokulakrishnan610/LMS](https://github.com/Gokulakrishnan610/LMS)
+{{RECENT_ACTIVITY}}
 
 </details>
 
@@ -176,7 +122,7 @@ One day, one block. Taller buildings represent more contributions; the skyline f
   <img src="./assets/contributions.svg" width="100%" alt="An animated isometric contribution city. Each block represents one day of GitHub contribution activity." />
 </p>
 
-**703 contributions** across **95 active days** · 2025-09-14 → 2026-09-18. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
+{{CONTRIBUTION_SUMMARY}}
 
 <details>
 <summary><strong>Watch the contribution snake</strong></summary>
@@ -191,12 +137,12 @@ One day, one block. Taller buildings represent more contributions; the skyline f
 
 </details>
 
-<sub>Snapshot: 18 Sep 2026, 20:27 UTC · Scheduled refresh every 6 hours; GitHub schedules and image caches may delay updates. Public repository metrics; contribution counts follow GitHub's visible calendar. [Workflow](https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml) · [How this works](./docs/automation.md)</sub>
+<sub>Snapshot: {{UPDATED_AT}} · Scheduled refresh every 6 hours; GitHub schedules and image caches may delay updates. Public repository metrics; contribution counts follow GitHub's visible calendar. [Workflow](https://github.com/{{USERNAME}}/{{USERNAME}}/actions/workflows/profile-refresh.yml) · [How this works](./docs/automation.md)</sub>
 
 ---
 
 <p align="center"><strong>Have an interesting problem? Let's build something useful.</strong><br />
-<a href="mailto:gokulakrishnankadhirvelu@gmail.com">gokulakrishnankadhirvelu@gmail.com</a> &nbsp; · &nbsp; <a href="https://linkedin.com/in/gokulakrishnan-k-5452962a2">LinkedIn</a></p>
+<a href="mailto:{{EMAIL}}">{{EMAIL}}</a> &nbsp; · &nbsp; <a href="{{LINKEDIN}}">LinkedIn</a></p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Stay curious. Build with intent. Keep shipping." />

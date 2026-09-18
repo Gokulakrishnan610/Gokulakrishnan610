@@ -1,0 +1,76 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile-content/profile.json
+      - profile-content/README.template.md
+      - scripts/**
+      - .github/workflows/profile-refresh.yml
+
+permissions:
+  contents: read
+
+# One workflow owns every generated file; simultaneous runs must not race.
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the current main branch
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+
+      - name: Test the generator
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh public data and generate the profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile.py --refresh
+
+      - name: Generate the contribution snake
+        uses: Platane/snk@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39 # v3.3.0
+        with:
+          github_user_name: Gokulakrishnan610
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/snake.svg?palette=github-dark&color_snake=#5eead4
+            assets/snake-light.svg?palette=github-light&color_snake=#0f766e
+
+      - name: Validate generated content and reproducibility
+        run: |
+          python scripts/validate_profile.py
+          python scripts/generate_profile.py --check
+
+      - name: Commit generated files only when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- README.md profile-content/snapshot.json assets/hero.svg assets/footer.svg assets/dashboard.svg assets/contributions.svg assets/snake.svg assets/snake-light.svg
+          if git diff --cached --quiet; then
+            echo "Generated profile is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh generated profile"
+          if ! git push origin HEAD:main; then
+            echo "::error::Could not publish the refresh. If main changed during this run, rerun this workflow to regenerate from its latest source. No force push was attempted."
+            exit 1
+          fi
