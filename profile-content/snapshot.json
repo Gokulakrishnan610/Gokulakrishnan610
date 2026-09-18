@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-18T20:27:46Z",
+  "updated_at": "2026-09-18T20:31:40Z",
   "user": {
     "login": "Gokulakrishnan610",
     "public_repos": 42,
@@ -180,12 +180,12 @@
     {
       "name": "Gokulakrishnan610",
       "html_url": "https://github.com/Gokulakrishnan610/Gokulakrishnan610",
-      "language": null,
+      "language": "Python",
       "stargazers_count": 1,
       "forks_count": 0,
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-09-18T15:26:45Z"
+      "pushed_at": "2026-09-18T20:31:24Z"
     },
     {
       "name": "Gokulakrishnan610.github.io",
