@@ -49,8 +49,8 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 <td valign="top">Messaging over Bluetooth Low Energy with peer discovery and multi-hop forwarding, without internet infrastructure.<br /><br /><sub>Kotlin · Android · BLE · Cryptography</sub></td>
 </tr>
 <tr>
-<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/chikkom">Poultry Welfare Monitoring ↗</a></strong><br /><sub>Connected devices</sub></td>
-<td valign="top">Environmental sensors, alerts, and a mobile dashboard for monitoring poultry welfare.<br /><br /><sub>ESP32 · Flutter · Flask · Firebase</sub></td>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/esp32cam_feed">ESP32-CAM Feed ↗</a></strong><br /><sub>Connected vision</sub></td>
+<td valign="top">Streams frames from multiple ESP32-CAM modules through Flask endpoints and a receiver dashboard.<br /><br /><sub>ESP32-CAM · Python · Flask · OpenCV</sub></td>
 </tr>
 <tr>
 <td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/Finalyearproject">AI Answer Evaluation ↗</a></strong><br /><sub>RAG &amp; NLP</sub></td>
@@ -177,14 +177,14 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 19 Sep 2026, 14:29 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 19 Sep 2026, 14:45 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
 
-**39 original public repositories** · **56 stars received** · **3 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
+**38 original public repositories** · **55 stars received** · **3 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
 
-**707 contributions** across **96 active days** · 2025-09-14 → 2026-09-19. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
+**710 contributions** across **96 active days** · 2025-09-14 → 2026-09-19. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
 
 **Recent public activity**
 
