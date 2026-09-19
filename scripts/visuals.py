@@ -45,8 +45,8 @@ def _text(x, y, value, size=22, fill=WHITE, weight=400, extra=""):
             f'font-weight="{weight}" {extra}>{_e(value)}</text>')
 
 
-def _start(height, title, description):
-    return [
+def _start(height, title, description, *, background=True):
+    parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="{height}" '
         f'viewBox="0 0 1200 {height}" role="img" aria-labelledby="title desc">',
         f'<title id="title">{_e(title)}</title>',
@@ -90,9 +90,11 @@ def _start(height, title, description):
         '.enter,.scan,.orbit,.pulse,.float,.city,.spark,.city-mode,.tower,.logo-cube{animation:none!important;opacity:1!important}'
         '.logo-mode{animation:none!important;opacity:.05!important}}'
         '</style>',
-        f'<rect x=".75" y=".75" width="1198.5" height="{height-1.5}" rx="18" '
-        f'fill="url(#surface)" stroke="{LINE}" stroke-width="1.5"/>',
     ]
+    if background:
+        parts.append(f'<rect x=".75" y=".75" width="1198.5" height="{height-1.5}" rx="18" '
+                     f'fill="url(#surface)" stroke="{LINE}" stroke-width="1.5"/>')
+    return parts
 
 
 def _end(parts):
@@ -249,32 +251,27 @@ def _trophy(cx, cy, color):
 
 def render_achievements(config):
     achievements = list(config.get("achievements") or [])[:4]
-    parts = _start(440, "Achievement cabinet",
+    parts = _start(296, "Achievement cabinet",
                    "Four verified competition milestones: " + "; ".join(
-                       f"{item.get('event', '')}, {item.get('result', '')}" for item in achievements))
-    parts += [_text(44, 58, "Achievement cabinet", 31, WHITE, 700),
-              _text(1156, 58, "BUILT FROM REAL MILESTONES", 15, MUTED, 500,
-                    'text-anchor="end" letter-spacing="1"'),
-              f'<path d="M44 83H1156" stroke="{LINE}"/>']
+                       f"{item.get('event', '')}, {item.get('result', '')}" for item in achievements),
+                   background=False)
     colors = [YELLOW, CYAN, PINK, PURPLE]
     for index, item in enumerate(achievements):
         x = 44 + index * 278
         color = colors[index]
         parts += [f'<g class="enter" style="animation-delay:-{index*.45}s">',
-                  f'<rect x="{x}" y="108" width="254" height="278" rx="15" fill="{PANEL}" stroke="{LINE}"/>',
-                  f'<rect x="{x}" y="108" width="254" height="6" rx="3" fill="{color}"/>']
-        parts += _trophy(x + 127, 217, color)
-        parts += [_text(x + 127, 311, item.get("result", ""), 25, color, 750, 'text-anchor="middle"'),
-                  _text(x + 127, 344, item.get("label", ""), 17, WHITE, 600, 'text-anchor="middle"'),
-                  _text(x + 127, 369, f"0{index+1} / MILESTONE", 12, MUTED, 550,
+                  f'<rect x="{x}" y="8" width="254" height="278" rx="15" fill="{PANEL}" stroke="{LINE}"/>',
+                  f'<rect x="{x}" y="8" width="254" height="6" rx="3" fill="{color}"/>']
+        parts += _trophy(x + 127, 117, color)
+        parts += [_text(x + 127, 211, item.get("result", ""), 25, color, 750, 'text-anchor="middle"'),
+                  _text(x + 127, 244, item.get("label", ""), 17, WHITE, 600, 'text-anchor="middle"'),
+                  _text(x + 127, 269, f"0{index+1} / MILESTONE", 12, MUTED, 550,
                         'text-anchor="middle" letter-spacing="1"'),
-                  f'<circle class="spark" cx="{x+52}" cy="159" r="5" fill="{color}" '
+                  f'<circle class="spark" cx="{x+52}" cy="59" r="5" fill="{color}" '
                   f'style="animation-delay:-{index*.5}s"/>',
-                  f'<path class="spark" d="M{x+203} 151v18m-9-9h18" stroke="{color}" stroke-width="3" '
+                  f'<path class="spark" d="M{x+203} 51v18m-9-9h18" stroke="{color}" stroke-width="3" '
                   f'style="animation-delay:-{index*.5+1}s"/>',
                   '</g>']
-    parts += [_text(44, 418, "Competition results shown above are also listed in full in the profile.", 15, MUTED),
-              '<rect class="scan" x="868" y="410" width="86" height="4" rx="2" fill="url(#rainbow)"/>']
     return _end(parts)
 
 
