@@ -1,7 +1,7 @@
 <!-- Generated from profile-content/README.template.md. Run python3 scripts/generate_profile.py after editing. -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Gokulakrishnan K — software engineering, AI systems, and full-stack development. Chennai, India." />
+  <img src="./assets/hero.svg" width="100%" alt="Gokulakrishnan K — software engineer building AI, web, and connected systems in Chennai." />
 </p>
 
 <p align="center">
@@ -105,19 +105,21 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90" alt="Animated trophy" /></p>
 
+<p><img src="./assets/achievements.svg" width="100%" alt="Animated achievement cabinet featuring four competition milestones." /></p>
+
 | | Competition | Result |
 | :---: | :--- | :--- |
 | 🥇 | **Smart India Hackathon 2024** | **Winner** |
 | 🏅 | **PALS Aquatic Drone Challenge 2025** | Finalist |
 | 🏅 | **IIT Kanpur Hackathon** | Top 6 |
-| 🥇 | **Agni Expo** · District level | 1st place |
+| 🥈 | **RAP Hackathon 2025** | **Runner-Up** |
 | 🥈 | **Prist University Expo** · State level | 2nd place |
 | 🏆 | **IEEE event** | Innovator's Pitch Award |
 | 🎯 | **EDII · IIITM Gwalior · Hackmageddon** | Finalist / top finishes |
 
-## On GitHub
+## 📊 GitHub Statistics
 
-<p><img src="./assets/dashboard.svg" width="100%" alt="Public repository totals, stars, followers, contributions, and primary-language distribution." /></p>
+<p><img src="./assets/dashboard.svg" width="100%" alt="Animated GitHub statistics, language distribution, and contribution rhythm." /></p>
 
 **Recently updated**
 
@@ -125,7 +127,7 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 ## Contributions
 
-<p><img src="./assets/contributions.svg" width="100%" alt="A 3D view of my contribution calendar. Each column represents one day; height follows its contribution count." /></p>
+<p><img src="./assets/contributions.svg" width="100%" alt="An animated rainbow 3D view of my contribution calendar. Each column represents one day; height follows its contribution count." /></p>
 
 ### Pac-Man
 
@@ -135,6 +137,7 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
   <img src="./assets/pacman.svg" width="100%" alt="Pac-Man eats contributions while ghosts chase him across my GitHub calendar." />
 </picture>
 
+<!-- Contribution snake intentionally hidden. Pac-Man remains the active contribution animation.
 ### Snake
 
 <picture>
@@ -142,6 +145,7 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
   <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
   <img src="./assets/snake.svg" width="100%" alt="A snake animation following my GitHub contribution calendar." />
 </picture>
+-->
 
 <sub>Updated {{UPDATED_AT}} · Scheduled every 6 hours · <a href="https://github.com/{{USERNAME}}/{{USERNAME}}/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
@@ -162,9 +166,10 @@ GitHub schedules and image caches can delay updates. [How this works](./docs/aut
 
 ---
 
-<p align="center"><strong>Have an interesting problem? Let's build something useful.</strong><br />
-<a href="{{PORTFOLIO}}">gokulakrishnank.in ↗</a> &nbsp; · &nbsp; <a href="mailto:{{EMAIL}}">Email</a> &nbsp; · &nbsp; <a href="{{LINKEDIN}}">LinkedIn</a></p>
+## Got a minute?
+
+<p><a href="{{PORTFOLIO}}">gokulakrishnank.in ↗</a> &nbsp; · &nbsp; <a href="mailto:{{EMAIL}}">Email</a> &nbsp; · &nbsp; <a href="{{LINKEDIN}}">LinkedIn</a></p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Code. Create. Ship. Curiosity starts it. Craft makes it real." />
+  <img src="./assets/footer.svg" width="100%" alt="Just a CS kid turning caffeine, curiosity, and code into things people actually use." />
 </p>

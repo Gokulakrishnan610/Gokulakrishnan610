@@ -6,6 +6,12 @@
   "portfolio": "https://gokulakrishnank.in",
   "email": "gokulakrishnankadhirvelu@gmail.com",
   "linkedin": "https://linkedin.com/in/gokulakrishnan-k-5452962a2",
+  "achievements": [
+    {"event": "Smart India Hackathon 2024", "label": "SIH 2024", "result": "Winner"},
+    {"event": "IIT Kanpur Hackathon", "label": "IIT Kanpur", "result": "Top 6"},
+    {"event": "PALS Aquatic Drone Challenge 2025", "label": "PALS Aquatic Drone", "result": "Finalist"},
+    {"event": "RAP Hackathon 2025", "label": "RAP Hackathon", "result": "Runner-Up"}
+  ],
   "projects": [
     {"repo": "interviewprep", "name": "AI Interview Platform", "category": "Voice AI", "description": "Practice interviews with real-time voice agents, avatar sessions, evaluation, and feedback.", "stack": "Next.js · Django · FastAPI · LiveKit"},
     {"repo": "LMS", "name": "ExplifyAI LMS", "category": "Education", "description": "Video lessons, quizzes, and progress tracking, with a native Android app for students.", "stack": "React · TypeScript · Django · Kotlin"},

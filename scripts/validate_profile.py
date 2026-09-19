@@ -19,7 +19,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 SVG = "{http://www.w3.org/2000/svg}"
-MAIN_VISUALS = {"hero.svg", "footer.svg", "dashboard.svg", "contributions.svg"}
+MAIN_VISUALS = {"hero.svg", "footer.svg", "achievements.svg", "dashboard.svg", "contributions.svg"}
 
 
 class ReadmeLinks(HTMLParser):

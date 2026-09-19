@@ -269,7 +269,7 @@ def load_config():
 
 def build_outputs(config, snapshot):
     from branding import render_hero, render_footer
-    from visuals import render_dashboard, render_contributions
+    from visuals import render_achievements, render_dashboard, render_contributions
 
     template = (ROOT / "profile-content/README.template.md").read_text()
     outputs = {
@@ -277,6 +277,7 @@ def build_outputs(config, snapshot):
         "profile-content/snapshot.json": json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n",
         "assets/hero.svg": render_hero(config),
         "assets/footer.svg": render_footer(config),
+        "assets/achievements.svg": render_achievements(config),
         "assets/dashboard.svg": render_dashboard(snapshot),
         "assets/contributions.svg": render_contributions(snapshot),
     }
