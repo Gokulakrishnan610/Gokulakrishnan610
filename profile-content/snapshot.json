@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T13:00:25Z",
+  "updated_at": "2026-09-19T14:29:09Z",
   "user": {
     "login": "Gokulakrishnan610",
-    "public_repos": 42,
+    "public_repos": 41,
     "followers": 3
   },
   "repos": [
@@ -185,7 +185,7 @@
       "forks_count": 0,
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-09-19T13:00:07Z"
+      "pushed_at": "2026-09-19T14:28:44Z"
     },
     {
       "name": "Gokulakrishnan610.github.io",
@@ -328,24 +328,14 @@
       "pushed_at": "2025-02-20T07:37:27Z"
     },
     {
-      "name": "Python",
-      "html_url": "https://github.com/Gokulakrishnan610/Python",
+      "name": "Python_academic_work-",
+      "html_url": "https://github.com/Gokulakrishnan610/Python_academic_work-",
       "language": null,
       "stargazers_count": 1,
       "forks_count": 0,
       "fork": false,
       "archived": false,
       "pushed_at": "2024-06-17T05:34:44Z"
-    },
-    {
-      "name": "sample_rep",
-      "html_url": "https://github.com/Gokulakrishnan610/sample_rep",
-      "language": null,
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "fork": false,
-      "archived": false,
-      "pushed_at": "2024-11-17T14:43:56Z"
     },
     {
       "name": "sem",
@@ -2284,7 +2274,7 @@
       {
         "date": "2026-09-19",
         "level": 1,
-        "count": 3
+        "count": 4
       }
     ]
   },
