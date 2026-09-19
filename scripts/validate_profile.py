@@ -8,6 +8,8 @@ Reproducibility is checked separately by generate_profile.py --check.
 from __future__ import annotations
 
 import argparse
+import base64
+import binascii
 from html.parser import HTMLParser
 from pathlib import Path
 import re
@@ -17,7 +19,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 SVG = "{http://www.w3.org/2000/svg}"
-MAIN_VISUALS = {"hero.svg", "footer.svg", "dashboard.svg", "contributions.svg"}
+MAIN_VISUALS = {"dashboard.svg", "contributions.svg"}
 
 
 class ReadmeLinks(HTMLParser):
@@ -101,7 +103,16 @@ def validate_svg(path: Path, *, accessible: bool = False) -> list[str]:
             if name.startswith("on"):
                 errors.append(f"{label}: event-handler attributes are forbidden")
             if name in {"href", "src"} and value and not value.startswith("#"):
-                errors.append(f"{label}: SVG must not reference external resources")
+                # Pac-Man's ghost sprites are embedded PNGs, not network resources.
+                embedded_png = False
+                if tag == "image" and value.startswith("data:image/png;base64,"):
+                    try:
+                        data = base64.b64decode(value.split(",", 1)[1], validate=True)
+                        embedded_png = data.startswith(b"\x89PNG\r\n\x1a\n")
+                    except (ValueError, binascii.Error):
+                        pass
+                if not embedded_png:
+                    errors.append(f"{label}: SVG must not reference external resources")
             if name == "attributename" and value.lower() in {"href", "xlink:href", "src"}:
                 errors.append(f"{label}: SVG must not animate resource references")
             errors.extend(_check_css(value, label))
@@ -123,9 +134,8 @@ def validate_repository(root: Path) -> list[str]:
     for name in sorted(MAIN_VISUALS):
         if not (root / "assets" / name).is_file():
             errors.append(f"Missing main visual: assets/{name}")
-    for path in sorted(root.rglob("*.svg")):
-        if ".git" not in path.relative_to(root).parts:
-            errors.extend(validate_svg(path, accessible=path.parent == root / "assets" and path.name in MAIN_VISUALS))
+    for path in sorted((root / "assets").rglob("*.svg")):
+        errors.extend(validate_svg(path, accessible=path.name in MAIN_VISUALS))
     return errors
 
 

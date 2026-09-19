@@ -1,37 +1,45 @@
 # Profile automation
 
-The profile is generated from editable content and a saved snapshot of public GitHub data. All artwork and statistics are committed to this repository, so a visitor does not need a third-party statistics service to render the profile.
+The profile is generated from editable content and a saved snapshot of public GitHub data. Statistics, the 3D graph, Pac-Man, and the snake are committed to this repository. Skill logos, contact badges, the typing animation, and the trophy GIF use the external image services linked in the README.
 
 ## Edit the profile
 
-Change `profile-content/profile.json` for account data, contact links, and featured projects. Change `profile-content/README.template.md` for the README layout, toolkit, and copy. The custom hero's name treatment, location, role labels, and other visual layouts live in `scripts/visuals.py`.
+Change `profile-content/profile.json` for account data, portfolio/contact links, and featured projects. Change `profile-content/README.template.md` for the intro, skills, achievements, and other copy. The two simple statistics/3D layouts live in `scripts/visuals.py`.
 
-Do not edit the generated `README.md`, `profile-content/snapshot.json`, or generated SVGs by hand: the next successful refresh replaces them. The refresh writes `assets/hero.svg`, `assets/footer.svg`, `assets/dashboard.svg`, `assets/contributions.svg`, `assets/snake.svg`, and `assets/snake-light.svg`.
+Do not edit the generated `README.md`, `profile-content/snapshot.json`, or generated SVGs by hand: the next successful refresh replaces them. The refresh writes `assets/dashboard.svg`, `assets/contributions.svg`, `assets/pacman.svg`, `assets/pacman-dark.svg`, `assets/snake.svg`, and `assets/snake-light.svg`.
 
-Use Python 3.12 or newer. The profile generator and validation tools use the Python standard library and require no package installation.
+Use Python 3.12 or newer and Node.js 22. The Python generator and validation tools use the standard library. Pac-Man uses the upstream library pinned to a full GitHub commit, with dependency integrity recorded in `package-lock.json`.
 
 ```sh
 # Render from the checked-in snapshot without making network requests.
 python3 scripts/generate_profile.py
 
+# Generate Pac-Man from that same snapshot, without API credentials.
+npm ci --ignore-scripts --no-audit --no-fund
+npm run generate:pacman
+
 # Test the generator, validate local content, and check reproducibility.
 python3 -m unittest discover -s tests -v
 python3 scripts/validate_profile.py
 python3 scripts/generate_profile.py --check
+npm run generate:pacman -- --check
 
 # Fetch current public data, then update the snapshot, README, and artwork.
 python3 scripts/generate_profile.py --refresh
+npm run generate:pacman
 ```
 
 Commit the edited source and regenerated outputs together. A local refresh can use an existing `GITHUB_TOKEN` environment variable for GitHub API requests, but no personal access token is required by the hosted workflow. Never store a token in profile content or commit one.
 
 The snake is generated separately by the pinned [Platane/snk action](https://github.com/Platane/snk) during a hosted refresh. The checked-in snake files remain available when running the Python generator locally.
 
+Pac-Man runs locally through `scripts/generate_pacman.mjs`, which adapts the validated snapshot to the library's data-provider format. Rendering makes no network requests and submits no leaderboard scores. Both themes use the same dates/counts; seeded randomness and the snapshot timestamp make them reproducible. Its small ghost sprites are embedded PNGs inside the SVG.
+
 ## Refresh workflow
 
 [Refresh profile](../.github/workflows/profile-refresh.yml) runs at minute 17 every six hours, on relevant source pushes to `main`, or through **Actions → Refresh profile → Run workflow**. Select `main` for a manual refresh. A single concurrency group serializes writers.
 
-The workflow tests the generator, fetches public data, generates both snake themes, and validates all outputs before committing. It stages only the generated README, data snapshot, and six named SVG files. It uses GitHub's automatically provided `GITHUB_TOKEN` with repository-content write permission; no extra secret or output branch is needed. Action versions are pinned to full commit hashes.
+The workflow tests the generator, fetches public data, generates both Pac-Man and snake themes, and validates all outputs before committing. It stages only the generated README, data snapshot, and six named SVG files. It uses GitHub's automatically provided `GITHUB_TOKEN` with repository-content write permission; no extra secret or output branch is needed. Action versions are pinned to full commit hashes.
 
 If fetching, generation, or validation fails, no commit is published and the last committed profile stays visible. If someone updates `main` during generation, a conflicting push is rejected safely. Rerun the workflow to regenerate from the new source; the workflow never force-pushes.
 
@@ -51,10 +59,10 @@ GitHub schedules can be delayed or dropped under load and run only from the defa
 
 ## Validation
 
-[Validate profile](../.github/workflows/validate.yml) runs on pull requests, pushes to `main`, and manual requests. It uses read-only repository permissions and needs no API credentials or live network data for its checks. It runs unit tests, validates the saved assets and README, and verifies that rendering the saved snapshot reproduces the committed outputs.
+[Validate profile](../.github/workflows/validate.yml) runs on pull requests, pushes to `main`, and manual requests. It uses read-only repository permissions. Installation downloads the pinned dependency; the checks themselves need no API credentials or live data. It runs unit tests, validates the saved assets and README, and verifies that rendering the saved snapshot reproduces the committed outputs, including both Pac-Man themes.
 
 All visual motion is contained in standalone SVG image assets. GitHub sanitizes README HTML and does not run custom scripts or WebGL inside it. The contribution landscape is an isometric image, so its information remains readable without interactive 3D support. [GitHub's Markdown rendering pipeline](https://github.com/github/markup)
 
 ## Credits
 
-The content → generator → committed-assets workflow was inspired by [SivaSabariGanesan's profile repository](https://github.com/SivaSabariGanesan/SivaSabariGanesan). This profile's content, generators, and visual design were written for Gokulakrishnan. The contribution snake is produced by [Platane/snk](https://github.com/Platane/snk).
+The content → generator → committed-assets workflow was inspired by [SivaSabariGanesan's profile repository](https://github.com/SivaSabariGanesan/SivaSabariGanesan). The contribution games use [abozanona's Pac-Man renderer](https://github.com/abozanona/pacman-contribution-graph) and [Platane/snk](https://github.com/Platane/snk). Skill logos come from [Skill Icons](https://skillicons.dev), badges from [Shields.io](https://shields.io), and the typing line from [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg).

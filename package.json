@@ -1,0 +1,11 @@
+{
+  "name": "gokulakrishnan-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:pacman": "node scripts/generate_pacman.mjs"
+  },
+  "dependencies": {
+    "pacman-contribution-graph": "https://codeload.github.com/abozanona/pacman-contribution-graph/tar.gz/7332e1de7903ab780c3692a4127a59cc13872daa"
+  }
+}

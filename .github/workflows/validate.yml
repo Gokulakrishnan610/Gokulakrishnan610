@@ -31,6 +31,17 @@ jobs:
       - name: Test without network credentials
         run: python -m unittest discover -s tests -v
 
+      - name: Set up Node.js for Pac-Man
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '22'
+
+      - name: Install pinned Pac-Man renderer
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - name: Verify Pac-Man uses the saved snapshot
+        run: npm run generate:pacman -- --check
+
       - name: Validate profile assets and links
         run: python scripts/validate_profile.py
 

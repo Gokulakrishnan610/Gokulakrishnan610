@@ -199,23 +199,17 @@ def fetch_snapshot(username):
 
 def project_table(config, snapshot):
     lookup = {repo["name"].lower(): repo for repo in snapshot["repos"]}
-    cells = []
-    for index, project in enumerate(config["projects"], 1):
+    projects = []
+    for project in config["projects"]:
         repo = lookup.get(project["repo"].lower())
         if repo is None:
             raise ValueError(f"Featured project is not a public repository: {project['repo']}")
-        stars, forks = repo["stargazers_count"], repo["forks_count"]
-        stats = f"{stars} {'star' if stars == 1 else 'stars'} · {forks} {'fork' if forks == 1 else 'forks'}"
-        cells.append(
-            '<td width="50%" valign="top">\n'
-            f'<sub>{index:02d} / {escape(project["category"])}</sub>\n'
+        projects.append(
             f'<h3><a href="{escape(repo["html_url"], quote=True)}">{escape(project["name"])} ↗</a></h3>\n'
             f'<p>{escape(project["description"])}</p>\n'
-            f'<p><code>{escape(project["stack"])}</code></p>\n'
-            f'<sub>{stats}</sub>\n</td>'
+            f'<p><sub>{escape(project["category"])} · {escape(project["stack"])}</sub></p>'
         )
-    rows = ["<tr>\n" + "\n".join(cells[start:start + 2]) + "\n</tr>" for start in range(0, len(cells), 2)]
-    return '<table>\n' + '\n'.join(rows) + '\n</table>'
+    return '\n\n'.join(projects)
 
 
 def render_readme(config, snapshot, template):
@@ -241,6 +235,7 @@ def render_readme(config, snapshot, template):
         "USERNAME": username,
         "EMAIL": config["email"],
         "LINKEDIN": config["linkedin"],
+        "PORTFOLIO": config.get("portfolio", ""),
         "PROJECTS": project_table(config, snapshot),
         "RECENT_REPOS": recent_text,
         "RECENT_ACTIVITY": "\n".join(event_text) or "No recent public events were returned by GitHub. Repository push dates above remain available.",
@@ -263,18 +258,18 @@ def load_config():
         raise ValueError("Invalid email address")
     if not re.fullmatch(r"https://(?:www\.)?linkedin\.com/in/[A-Za-z0-9_-]+/?", config["linkedin"]):
         raise ValueError("Expected a LinkedIn profile URL")
+    if not re.fullmatch(r"https://[A-Za-z0-9.-]+/?", config["portfolio"]):
+        raise ValueError("Expected an HTTPS portfolio domain")
     return config
 
 
 def build_outputs(config, snapshot):
-    from visuals import render_hero, render_footer, render_dashboard, render_contributions
+    from visuals import render_dashboard, render_contributions
 
     template = (ROOT / "profile-content/README.template.md").read_text()
     outputs = {
         "README.md": render_readme(config, snapshot, template),
         "profile-content/snapshot.json": json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n",
-        "assets/hero.svg": render_hero(config),
-        "assets/footer.svg": render_footer(config),
         "assets/dashboard.svg": render_dashboard(snapshot),
         "assets/contributions.svg": render_contributions(snapshot),
     }

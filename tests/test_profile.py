@@ -244,6 +244,16 @@ class RenderingTests(unittest.TestCase):
 
 
 class AssetValidatorTests(unittest.TestCase):
+    def test_embedded_png_sprites_are_local_but_embedded_svg_is_rejected(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "pacman.svg"
+            png = "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jz8kAAAAASUVORK5CYII="
+            path.write_text(f'<svg xmlns="http://www.w3.org/2000/svg"><image href="data:image/png;base64,{png}"/></svg>')
+            self.assertEqual(validator.validate_svg(path), [])
+            for data in ("data:image/svg+xml;base64,PHN2Zy8+", "data:image/png;base64,bm90IGEgcG5n"):
+                path.write_text(f'<svg xmlns="http://www.w3.org/2000/svg"><image href="{data}"/></svg>')
+                self.assertTrue(validator.validate_svg(path))
+
     def test_html_markdown_srcset_and_reference_links_are_all_checked(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
