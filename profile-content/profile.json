@@ -7,11 +7,11 @@
   "email": "gokulakrishnankadhirvelu@gmail.com",
   "linkedin": "https://linkedin.com/in/gokulakrishnan-k-5452962a2",
   "projects": [
-    {"repo": "interviewprep", "name": "AI Interview Platform", "category": "VOICE AI", "description": "Real-time interview practice with voice agents, avatar experiences, session feedback, and evaluation.", "stack": "Next.js · Django · FastAPI · LiveKit"},
-    {"repo": "LMS", "name": "ExplifyAI LMS", "category": "AI + EDUCATION", "description": "An academic learning platform with video lessons, quizzes, progress tracking, and a native Android student app.", "stack": "React · TypeScript · Django · Kotlin"},
-    {"repo": "MeshTalk", "name": "MeshTalk", "category": "OFFLINE SYSTEMS", "description": "Infrastructure-free messaging through Bluetooth Low Energy, peer discovery, and multi-hop mesh forwarding.", "stack": "Kotlin · Android · BLE · Cryptography"},
-    {"repo": "chikkom", "name": "Poultry Welfare Monitoring", "category": "AI + IOT", "description": "Environmental sensing, alerts, and a mobile dashboard for monitoring poultry welfare.", "stack": "ESP32 · Flutter · Flask · Firebase"},
-    {"repo": "Finalyearproject", "name": "AI Answer Evaluation", "category": "RAG + NLP", "description": "Descriptive-answer evaluation exploring grounded feedback, criterion-level scoring, and confidence-based escalation.", "stack": "RAG · NLP · Explainable AI"},
-    {"repo": "Titanium", "name": "Titanium", "category": "WEB + COMMUNITY", "description": "College event web development bringing together technical execution, collaboration, and product thinking.", "stack": "TypeScript · Web applications"}
+    {"repo": "interviewprep", "name": "AI Interview Platform", "category": "Voice AI", "description": "Practice interviews with real-time voice agents, avatar sessions, evaluation, and feedback.", "stack": "Next.js · Django · FastAPI · LiveKit"},
+    {"repo": "LMS", "name": "ExplifyAI LMS", "category": "Education", "description": "Video lessons, quizzes, and progress tracking, with a native Android app for students.", "stack": "React · TypeScript · Django · Kotlin"},
+    {"repo": "MeshTalk", "name": "MeshTalk", "category": "Offline messaging", "description": "Messaging over Bluetooth Low Energy with peer discovery and multi-hop forwarding, without internet infrastructure.", "stack": "Kotlin · Android · BLE · Cryptography"},
+    {"repo": "chikkom", "name": "Poultry Welfare Monitoring", "category": "Connected devices", "description": "Environmental sensors, alerts, and a mobile dashboard for monitoring poultry welfare.", "stack": "ESP32 · Flutter · Flask · Firebase"},
+    {"repo": "Finalyearproject", "name": "AI Answer Evaluation", "category": "RAG & NLP", "description": "Exploring grounded feedback, criterion-level scoring, and confidence-based escalation for descriptive answers.", "stack": "RAG · NLP · Explainable AI"},
+    {"repo": "Titanium", "name": "Titanium", "category": "Web & community", "description": "College event website development and technical coordination.", "stack": "TypeScript · Web applications"}
   ]
 }

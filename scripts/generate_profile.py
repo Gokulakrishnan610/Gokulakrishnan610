@@ -199,23 +199,27 @@ def fetch_snapshot(username):
 
 def project_table(config, snapshot):
     lookup = {repo["name"].lower(): repo for repo in snapshot["repos"]}
-    projects = []
+    projects = ['<table>', '<thead><tr><th align="left">Project</th><th align="left">What it does</th></tr></thead>', '<tbody>']
     for project in config["projects"]:
         repo = lookup.get(project["repo"].lower())
         if repo is None:
             raise ValueError(f"Featured project is not a public repository: {project['repo']}")
         projects.append(
-            f'<h3><a href="{escape(repo["html_url"], quote=True)}">{escape(project["name"])} ↗</a></h3>\n'
-            f'<p>{escape(project["description"])}</p>\n'
-            f'<p><sub>{escape(project["category"])} · {escape(project["stack"])}</sub></p>'
+            '<tr>\n'
+            '<td width="30%" valign="top">'
+            f'<strong><a href="{escape(repo["html_url"], quote=True)}">{escape(project["name"])} ↗</a></strong>'
+            f'<br /><sub>{escape(project["category"])}</sub></td>\n'
+            f'<td valign="top">{escape(project["description"])}'
+            f'<br /><br /><sub>{escape(project["stack"])}</sub></td>\n'
+            '</tr>'
         )
-    return '\n\n'.join(projects)
+    return '\n'.join(projects + ['</tbody>', '</table>'])
 
 
 def render_readme(config, snapshot, template):
     username = config["username"]
     original = [repo for repo in snapshot["repos"] if not repo["fork"]]
-    recent = sorted((repo for repo in original if not repo["archived"] and repo["name"].lower() != username.lower() and repo["pushed_at"]), key=lambda repo: repo["pushed_at"], reverse=True)[:5]
+    recent = sorted((repo for repo in original if not repo["archived"] and repo["name"].lower() != username.lower() and repo["pushed_at"]), key=lambda repo: repo["pushed_at"], reverse=True)[:3]
     recent_text = "\n".join(f'- **[{repo["name"]}]({repo["html_url"]})** · {escape(repo["language"] or "Language not reported")} · pushed {repo["pushed_at"][:10]}' for repo in recent) or "No public repository pushes are available."
     event_labels = {"PushEvent": "Pushed code to", "CreateEvent": "Created a repository or ref in", "PullRequestEvent": "Updated a pull request in", "IssuesEvent": "Updated an issue in", "IssueCommentEvent": "Commented in", "ReleaseEvent": "Published a release in", "WatchEvent": "Starred", "ForkEvent": "Forked", "PullRequestReviewEvent": "Reviewed a pull request in", "DeleteEvent": "Deleted a ref in"}
     event_text = []
@@ -264,12 +268,15 @@ def load_config():
 
 
 def build_outputs(config, snapshot):
+    from branding import render_hero, render_footer
     from visuals import render_dashboard, render_contributions
 
     template = (ROOT / "profile-content/README.template.md").read_text()
     outputs = {
         "README.md": render_readme(config, snapshot, template),
         "profile-content/snapshot.json": json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n",
+        "assets/hero.svg": render_hero(config),
+        "assets/footer.svg": render_footer(config),
         "assets/dashboard.svg": render_dashboard(snapshot),
         "assets/contributions.svg": render_contributions(snapshot),
     }
