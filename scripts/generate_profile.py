@@ -200,10 +200,12 @@ def fetch_snapshot(username):
 def project_table(config, snapshot):
     lookup = {repo["name"].lower(): repo for repo in snapshot["repos"]}
     projects = ['<table>', '<thead><tr><th align="left">Project</th><th align="left">What it does</th></tr></thead>', '<tbody>']
+    visible = 0
     for project in config["projects"]:
         repo = lookup.get(project["repo"].lower())
         if repo is None:
-            raise ValueError(f"Featured project is not a public repository: {project['repo']}")
+            continue
+        visible += 1
         projects.append(
             '<tr>\n'
             '<td width="30%" valign="top">'
@@ -213,7 +215,21 @@ def project_table(config, snapshot):
             f'<br /><br /><sub>{escape(project["stack"])}</sub></td>\n'
             '</tr>'
         )
+    if not visible:
+        raise ValueError("None of the configured featured projects are public repositories")
     return '\n'.join(projects + ['</tbody>', '</table>'])
+
+
+def more_project_list(config, snapshot):
+    lookup = {repo["name"].lower(): repo for repo in snapshot["repos"]}
+    links = []
+    for name in config.get("more_projects", []):
+        repo = lookup.get(name.lower())
+        if repo is None or repo["fork"] or repo["archived"]:
+            continue
+        language = escape(repo["language"] or "Language not reported")
+        links.append(f'- **[{escape(repo["name"])}]({escape(repo["html_url"], quote=True)})** · {language}')
+    return "\n".join(links) or f'[Browse every public repository](https://github.com/{config["username"]}?tab=repositories).'
 
 
 def render_readme(config, snapshot, template):
@@ -241,6 +257,7 @@ def render_readme(config, snapshot, template):
         "LINKEDIN": config["linkedin"],
         "PORTFOLIO": config.get("portfolio", ""),
         "PROJECTS": project_table(config, snapshot),
+        "MORE_PROJECTS": more_project_list(config, snapshot),
         "RECENT_REPOS": recent_text,
         "RECENT_ACTIVITY": "\n".join(event_text) or "No recent public events were returned by GitHub. Repository push dates above remain available.",
         "METRICS_SUMMARY": f'**{len(original)} original public repositories** · **{sum(repo["stargazers_count"] for repo in original)} stars received** · **{snapshot["user"]["followers"]} followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.',

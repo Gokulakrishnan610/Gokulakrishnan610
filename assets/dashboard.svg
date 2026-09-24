@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
 <title id="title">GitHub statistics</title>
-<desc id="desc">39 public non-fork repositories, 56 stars received across those repositories, and 3 followers. 712 contributions in the returned calendar. Language mix counts each repository&#x27;s primary language once; it does not measure code volume or proficiency.</desc>
+<desc id="desc">45 public non-fork repositories, 63 stars received across those repositories, and 3 followers. 730 contributions in the returned calendar. Language mix counts each repository&#x27;s primary language once; it does not measure code volume or proficiency.</desc>
 <defs>
 <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11172a"/><stop offset=".55" stop-color="#070914"/><stop offset="1" stop-color="#141027"/></linearGradient>
 <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#49e39b"/><stop offset=".2" stop-color="#ffd84d"/><stop offset=".42" stop-color="#ff7a45"/><stop offset=".62" stop-color="#ff5ca8"/><stop offset=".82" stop-color="#a56eff"/><stop offset="1" stop-color="#45d9ff"/></linearGradient>
@@ -9,20 +9,20 @@
 <style>@keyframes enter{0%{opacity:0;transform:translateY(12px)}18%,100%{opacity:1;transform:translateY(0)}}@keyframes scan{0%,10%{transform:translateX(0)}90%,100%{transform:translateX(190px)}}@keyframes orbit{to{stroke-dashoffset:-120}}@keyframes pulse{0%,100%{opacity:.32}50%{opacity:1}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes hue{to{filter:hue-rotate(360deg)}}@keyframes sparkle{0%,100%{opacity:.2;transform:scale(.65)}50%{opacity:1;transform:scale(1.2)}}@keyframes cityCycle{0%,38%,100%{opacity:1}48%,82%{opacity:.08}}@keyframes logoCycle{0%,38%,100%{opacity:.05}48%,82%{opacity:1}}@keyframes build{0%,100%{transform:translateY(0)}45%{transform:translateY(-12px)}}@keyframes blockHop{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}.enter{opacity:1;animation:enter 5s ease-out infinite}.scan{animation:scan 6s cubic-bezier(.65,0,.35,1) infinite alternate}.orbit{animation:orbit 8s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.city{animation:hue 18s linear infinite}.spark{transform-box:fill-box;transform-origin:center;animation:sparkle 2.8s ease-in-out infinite}.city-mode{animation:cityCycle 16s ease-in-out infinite}.logo-mode{opacity:.05;animation:logoCycle 16s ease-in-out infinite}.tower{animation:build 8s ease-in-out infinite}.logo-cube{animation:blockHop 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.enter,.scan,.orbit,.pulse,.float,.city,.spark,.city-mode,.tower,.logo-cube{animation:none!important;opacity:1!important}.logo-mode{animation:none!important;opacity:.05!important}}</style>
 <rect x=".75" y=".75" width="1198.5" height="598.5" rx="18" fill="url(#surface)" stroke="#28324d" stroke-width="1.5"/>
 <text x="44" y="58" fill="#f4f7ff" font-size="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" >GitHub statistics</text>
-<text x="1156" y="58" fill="#a9b2c7" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" text-anchor="end" letter-spacing="1">LIVE FROM THE SAVED SNAPSHOT · 19 SEP 2026</text>
+<text x="1156" y="58" fill="#a9b2c7" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" text-anchor="end" letter-spacing="1">LIVE FROM THE SAVED SNAPSHOT · 24 SEP 2026</text>
 <path d="M44 83H1156" stroke="#28324d"/>
 <g class="enter" style="animation-delay:-0.0s">
 <rect x="44" y="108" width="254" height="118" rx="13" fill="#101527" stroke="#28324d"/>
 <rect x="44" y="108" width="254" height="5" rx="2.5" fill="#45d9ff"/>
 <rect class="scan" x="54" y="111" width="44" height="2" fill="#f4f7ff" opacity=".9"/>
-<text x="64" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">39</text>
+<text x="64" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">45</text>
 <text x="64" y="207" fill="#45d9ff" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">PUBLIC REPOSITORIES</text>
 </g>
 <g class="enter" style="animation-delay:-0.35s">
 <rect x="322" y="108" width="254" height="118" rx="13" fill="#101527" stroke="#28324d"/>
 <rect x="322" y="108" width="254" height="5" rx="2.5" fill="#ff5ca8"/>
 <rect class="scan" x="332" y="111" width="44" height="2" fill="#f4f7ff" opacity=".9"/>
-<text x="342" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">56</text>
+<text x="342" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">63</text>
 <text x="342" y="207" fill="#ff5ca8" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">STARS RECEIVED</text>
 </g>
 <g class="enter" style="animation-delay:-0.7s">
@@ -36,61 +36,61 @@
 <rect x="878" y="108" width="254" height="118" rx="13" fill="#101527" stroke="#28324d"/>
 <rect x="878" y="108" width="254" height="5" rx="2.5" fill="#ffd84d"/>
 <rect class="scan" x="888" y="111" width="44" height="2" fill="#f4f7ff" opacity=".9"/>
-<text x="898" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">712</text>
+<text x="898" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">730</text>
 <text x="898" y="207" fill="#ffd84d" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">CONTRIBUTIONS</text>
 </g>
 <rect x="44" y="252" width="688" height="306" rx="15" fill="#0d1221" stroke="#293451"/>
 <text x="70" y="293" fill="#f4f7ff" font-size="23" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" >Language constellation</text>
 <text x="706" y="293" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" text-anchor="end" letter-spacing=".8">PRIMARY LANGUAGE · REPOSITORY COUNT</text>
 <circle cx="197" cy="414" r="52" fill="none" stroke="#28324d" stroke-width="22"/>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#64718c" stroke-width="22" stroke-linecap="round" stroke-dasharray="121.67 205.06" stroke-dashoffset="-0.00" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;121.67 205.06;121.67 205.06" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#45d9ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="112.17 214.56" stroke-dashoffset="-0.00" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;112.17 214.56;112.17 214.56" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#45d9ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="96.53 230.20" stroke-dashoffset="-125.67" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;96.53 230.20;96.53 230.20" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#4b72ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="83.13 243.60" stroke-dashoffset="-116.17" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;83.13 243.60;83.13 243.60" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#4b72ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="63.02 263.71" stroke-dashoffset="-226.20" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;63.02 263.71;63.02 263.71" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#64718c" stroke-width="22" stroke-linecap="round" stroke-dasharray="83.13 243.60" stroke-dashoffset="-203.30" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;83.13 243.60;83.13 243.60" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#aab7cf" stroke-width="22" stroke-linecap="round" stroke-dasharray="4.38 322.35" stroke-dashoffset="-293.22" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;4.38 322.35;4.38 322.35" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#aab7cf" stroke-width="22" stroke-linecap="round" stroke-dasharray="3.26 323.47" stroke-dashoffset="-290.43" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;3.26 323.47;3.26 323.47" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#ff6542" stroke-width="22" stroke-linecap="round" stroke-dasharray="4.38 322.35" stroke-dashoffset="-301.60" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;4.38 322.35;4.38 322.35" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#ff6542" stroke-width="22" stroke-linecap="round" stroke-dasharray="3.26 323.47" stroke-dashoffset="-297.69" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;3.26 323.47;3.26 323.47" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#8b95aa" stroke-width="22" stroke-linecap="round" stroke-dasharray="12.76 313.97" stroke-dashoffset="-309.97" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;12.76 313.97;12.76 313.97" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#8b95aa" stroke-width="22" stroke-linecap="round" stroke-dasharray="17.78 308.95" stroke-dashoffset="-304.95" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;17.78 308.95;17.78 308.95" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<text x="197" y="409" fill="#f4f7ff" font-size="33" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" text-anchor="middle">39</text>
+<text x="197" y="409" fill="#f4f7ff" font-size="33" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" text-anchor="middle">45</text>
 <text x="197" y="438" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" text-anchor="middle" letter-spacing="1">REPOS</text>
-<circle class="pulse" cx="310" cy="343" r="6" fill="#64718c" style="animation-delay:-0.0s"/>
-<text x="327" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Unspecified</text>
-<text x="327" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >15 repos · 38%</text>
-<circle class="pulse" cx="515" cy="343" r="6" fill="#45d9ff" style="animation-delay:-0.4s"/>
-<text x="532" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Python</text>
-<text x="532" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >12 repos · 31%</text>
-<circle class="pulse" cx="310" cy="404" r="6" fill="#4b72ff" style="animation-delay:-0.8s"/>
-<text x="327" y="411" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >TypeScript</text>
-<text x="327" y="434" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >8 repos · 21%</text>
+<circle class="pulse" cx="310" cy="343" r="6" fill="#45d9ff" style="animation-delay:-0.0s"/>
+<text x="327" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Python</text>
+<text x="327" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >16 repos · 36%</text>
+<circle class="pulse" cx="515" cy="343" r="6" fill="#4b72ff" style="animation-delay:-0.4s"/>
+<text x="532" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >TypeScript</text>
+<text x="532" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >12 repos · 27%</text>
+<circle class="pulse" cx="310" cy="404" r="6" fill="#64718c" style="animation-delay:-0.8s"/>
+<text x="327" y="411" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Unspecified</text>
+<text x="327" y="434" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >12 repos · 27%</text>
 <circle class="pulse" cx="515" cy="404" r="6" fill="#aab7cf" style="animation-delay:-1.2000000000000002s"/>
 <text x="532" y="411" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >C</text>
-<text x="532" y="434" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >1 repos · 3%</text>
+<text x="532" y="434" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >1 repos · 2%</text>
 <circle class="pulse" cx="310" cy="465" r="6" fill="#ff6542" style="animation-delay:-1.6s"/>
 <text x="327" y="472" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >HTML</text>
-<text x="327" y="495" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >1 repos · 3%</text>
+<text x="327" y="495" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >1 repos · 2%</text>
 <circle class="pulse" cx="515" cy="465" r="6" fill="#8b95aa" style="animation-delay:-2.0s"/>
 <text x="532" y="472" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Other</text>
-<text x="532" y="495" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >2 repos · 5%</text>
+<text x="532" y="495" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >3 repos · 7%</text>
 <rect x="756" y="252" width="400" height="306" rx="15" fill="#0d1221" stroke="#293451"/>
 <text x="782" y="293" fill="#f4f7ff" font-size="23" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" >Contribution rhythm</text>
 <circle cx="882" cy="405" r="61" fill="none" stroke="#28324d" stroke-width="12"/>
-<circle class="orbit" cx="882" cy="405" r="61" fill="none" stroke="#45d9ff" stroke-width="12" stroke-linecap="round" stroke-dasharray="54.75 328.52" transform="rotate(-90 882 405)"/>
+<circle class="orbit" cx="882" cy="405" r="61" fill="none" stroke="#45d9ff" stroke-width="12" stroke-linecap="round" stroke-dasharray="0.00 383.27" transform="rotate(-90 882 405)"/>
 <circle class="pulse" cx="882" cy="344" r="9" fill="#ff7a45"/>
-<text x="882" y="421" fill="#f4f7ff" font-size="43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" text-anchor="middle">1</text>
+<text x="882" y="421" fill="#f4f7ff" font-size="43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" text-anchor="middle">0</text>
 <text x="882" y="491" fill="#ff7a45" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle" letter-spacing=".9">CURRENT STREAK</text>
 <text x="1042" y="359" fill="#a56eff" font-size="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle">7</text>
 <text x="1042" y="385" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" text-anchor="middle" letter-spacing=".8">LONGEST</text>
-<text x="1042" y="446" fill="#49e39b" font-size="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle">96</text>
+<text x="1042" y="446" fill="#49e39b" font-size="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle">98</text>
 <text x="1042" y="472" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" text-anchor="middle" letter-spacing=".8">ACTIVE DAYS</text>
 <text x="1042" y="522" fill="#ffd84d" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" text-anchor="middle">BEST DAY · 64</text>
 </svg>

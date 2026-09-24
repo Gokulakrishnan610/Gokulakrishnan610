@@ -209,6 +209,19 @@ class PublicFetchTests(unittest.TestCase):
 
 
 class RenderingTests(unittest.TestCase):
+    def test_missing_featured_project_is_skipped_when_another_is_public(self):
+        settings, data = config(), snapshot()
+        settings["projects"].insert(0, {**settings["projects"][0], "repo": "renamed-or-private"})
+        rendered = profile.project_table(settings, data)
+        self.assertNotIn("renamed-or-private", rendered)
+        self.assertIn("Example", rendered)
+
+    def test_all_missing_featured_projects_fail_clearly(self):
+        settings, data = config(), snapshot()
+        settings["projects"][0]["repo"] = "renamed-or-private"
+        with self.assertRaisesRegex(ValueError, "None of the configured featured projects"):
+            profile.project_table(settings, data)
+
     def test_project_text_and_language_are_html_escaped(self):
         settings, data = config(), snapshot()
         unsafe = '<script>alert("x")</script> & "quoted"'

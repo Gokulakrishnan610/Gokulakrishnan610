@@ -4,7 +4,9 @@ The profile is generated from editable content and a saved snapshot of public Gi
 
 ## Edit the profile
 
-Change `profile-content/profile.json` for account data, portfolio/contact links, achievements, and featured projects. Change `profile-content/README.template.md` for the intro, skills, achievements, and other copy. The achievement cabinet, statistics, and 3D layouts live in `scripts/visuals.py`; the hero and footer artwork live in `scripts/branding.py`.
+Change `profile-content/profile.json` for account data, portfolio/contact links, achievements, featured projects, and the compact list of additional builds. Change `profile-content/README.template.md` for the intro, skills, achievements, and other copy. The achievement cabinet, statistics, and 3D layouts live in `scripts/visuals.py`; the hero and footer artwork live in `scripts/branding.py`.
+
+Featured and additional project links are resolved against each fresh public-repository snapshot. A project that has been renamed, made private, or removed is omitted so one stale link cannot stop the scheduled refresh. Generation still fails when none of the configured featured projects can be found, which catches a broken or wrong account configuration.
 
 Do not edit the generated `README.md`, `profile-content/snapshot.json`, or generated SVGs by hand: the next successful refresh replaces them. The refresh writes `assets/hero.svg`, `assets/footer.svg`, `assets/achievements.svg`, `assets/dashboard.svg`, `assets/contributions.svg`, `assets/pacman.svg`, `assets/pacman-dark.svg`, `assets/snake.svg`, and `assets/snake-light.svg`.
 

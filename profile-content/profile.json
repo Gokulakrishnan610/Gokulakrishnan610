@@ -13,11 +13,23 @@
     {"event": "RAP Hackathon 2025", "label": "RAP Hackathon", "result": "Runner-Up"}
   ],
   "projects": [
+    {"repo": "ClaimGuardian", "name": "ClaimGuardian AI", "category": "Fraud intelligence", "description": "A multi-agent insurance fraud detection system combining document analysis, image forensics, trained models, retrieval, and explainable risk scoring.", "stack": "Python · Machine learning · RAG · Computer vision"},
     {"repo": "interviewprep", "name": "AI Interview Platform", "category": "Voice AI", "description": "Practice interviews with real-time voice agents, avatar sessions, evaluation, and feedback.", "stack": "Next.js · Django · FastAPI · LiveKit"},
-    {"repo": "LMS", "name": "ExplifyAI LMS", "category": "Education", "description": "Video lessons, quizzes, and progress tracking, with a native Android app for students.", "stack": "React · TypeScript · Django · Kotlin"},
+    {"repo": "BiteMePlz", "name": "BiteMePlz", "category": "Campus commerce", "description": "A real-time campus food ordering and digital wallet platform with multi-shop inventory, Razorpay payments, and QR-based collection.", "stack": "React · TypeScript · Django · PostgreSQL · Redis"},
+    {"repo": "EcoSentineluser", "name": "EcoSentinel", "category": "Disaster response", "description": "A mobile-first emergency awareness system for live alerts, risk maps, incident reporting, community support, and preparedness guidance.", "stack": "React · TypeScript · Leaflet · Tailwind CSS"},
+    {"repo": "Educational_Portal", "name": "Educational Portal", "category": "Academic operations", "description": "A role-based student, faculty, and admin platform for achievements, certificates, volunteering, portfolios, and institutional workflows.", "stack": "React · TypeScript · Django REST · PostgreSQL"},
     {"repo": "MeshTalk", "name": "MeshTalk", "category": "Offline messaging", "description": "Messaging over Bluetooth Low Energy with peer discovery and multi-hop forwarding, without internet infrastructure.", "stack": "Kotlin · Android · BLE · Cryptography"},
-    {"repo": "esp32cam_feed", "name": "ESP32-CAM Feed", "category": "Connected vision", "description": "Streams frames from multiple ESP32-CAM modules through Flask endpoints and a receiver dashboard.", "stack": "ESP32-CAM · Python · Flask · OpenCV"},
-    {"repo": "Finalyearproject", "name": "AI Answer Evaluation", "category": "RAG & NLP", "description": "Exploring grounded feedback, criterion-level scoring, and confidence-based escalation for descriptive answers.", "stack": "RAG · NLP · Explainable AI"},
-    {"repo": "Titanium", "name": "Titanium", "category": "Web & community", "description": "College event website development and technical coordination.", "stack": "TypeScript · Web applications"}
+    {"repo": "gym_api_app", "name": "Gym Access Bridge", "category": "Physical access", "description": "A FastAPI bridge that connects a gym platform to ZKBio face-recognition turnstiles, access rules, device events, and live dashboards.", "stack": "Python · FastAPI · WebSockets · ZKBio"},
+    {"repo": "esp32cam_feed", "name": "ESP32-CAM Feed", "category": "Connected vision", "description": "Streams frames from multiple ESP32-CAM modules through Flask endpoints and a receiver dashboard.", "stack": "ESP32-CAM · Python · Flask · OpenCV"}
+  ],
+  "more_projects": [
+    "LMS",
+    "devs-society",
+    "EcoSentineladmin",
+    "Titanium",
+    "cloud_storage",
+    "SmartTrafficML",
+    "AttendanceCV",
+    "INSYNC"
   ]
 }

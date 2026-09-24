@@ -37,28 +37,36 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 <thead><tr><th align="left">Project</th><th align="left">What it does</th></tr></thead>
 <tbody>
 <tr>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/ClaimGuardian">ClaimGuardian AI ↗</a></strong><br /><sub>Fraud intelligence</sub></td>
+<td valign="top">A multi-agent insurance fraud detection system combining document analysis, image forensics, trained models, retrieval, and explainable risk scoring.<br /><br /><sub>Python · Machine learning · RAG · Computer vision</sub></td>
+</tr>
+<tr>
 <td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/interviewprep">AI Interview Platform ↗</a></strong><br /><sub>Voice AI</sub></td>
 <td valign="top">Practice interviews with real-time voice agents, avatar sessions, evaluation, and feedback.<br /><br /><sub>Next.js · Django · FastAPI · LiveKit</sub></td>
 </tr>
 <tr>
-<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/LMS">ExplifyAI LMS ↗</a></strong><br /><sub>Education</sub></td>
-<td valign="top">Video lessons, quizzes, and progress tracking, with a native Android app for students.<br /><br /><sub>React · TypeScript · Django · Kotlin</sub></td>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/BiteMePlz">BiteMePlz ↗</a></strong><br /><sub>Campus commerce</sub></td>
+<td valign="top">A real-time campus food ordering and digital wallet platform with multi-shop inventory, Razorpay payments, and QR-based collection.<br /><br /><sub>React · TypeScript · Django · PostgreSQL · Redis</sub></td>
+</tr>
+<tr>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/EcoSentineluser">EcoSentinel ↗</a></strong><br /><sub>Disaster response</sub></td>
+<td valign="top">A mobile-first emergency awareness system for live alerts, risk maps, incident reporting, community support, and preparedness guidance.<br /><br /><sub>React · TypeScript · Leaflet · Tailwind CSS</sub></td>
+</tr>
+<tr>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/Educational_Portal">Educational Portal ↗</a></strong><br /><sub>Academic operations</sub></td>
+<td valign="top">A role-based student, faculty, and admin platform for achievements, certificates, volunteering, portfolios, and institutional workflows.<br /><br /><sub>React · TypeScript · Django REST · PostgreSQL</sub></td>
 </tr>
 <tr>
 <td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/MeshTalk">MeshTalk ↗</a></strong><br /><sub>Offline messaging</sub></td>
 <td valign="top">Messaging over Bluetooth Low Energy with peer discovery and multi-hop forwarding, without internet infrastructure.<br /><br /><sub>Kotlin · Android · BLE · Cryptography</sub></td>
 </tr>
 <tr>
+<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/gym_api_app">Gym Access Bridge ↗</a></strong><br /><sub>Physical access</sub></td>
+<td valign="top">A FastAPI bridge that connects a gym platform to ZKBio face-recognition turnstiles, access rules, device events, and live dashboards.<br /><br /><sub>Python · FastAPI · WebSockets · ZKBio</sub></td>
+</tr>
+<tr>
 <td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/esp32cam_feed">ESP32-CAM Feed ↗</a></strong><br /><sub>Connected vision</sub></td>
 <td valign="top">Streams frames from multiple ESP32-CAM modules through Flask endpoints and a receiver dashboard.<br /><br /><sub>ESP32-CAM · Python · Flask · OpenCV</sub></td>
-</tr>
-<tr>
-<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/Finalyearproject">AI Answer Evaluation ↗</a></strong><br /><sub>RAG &amp; NLP</sub></td>
-<td valign="top">Exploring grounded feedback, criterion-level scoring, and confidence-based escalation for descriptive answers.<br /><br /><sub>RAG · NLP · Explainable AI</sub></td>
-</tr>
-<tr>
-<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/Titanium">Titanium ↗</a></strong><br /><sub>Web &amp; community</sub></td>
-<td valign="top">College event website development and technical coordination.<br /><br /><sub>TypeScript · Web applications</sub></td>
 </tr>
 </tbody>
 </table>
@@ -66,13 +74,16 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 <p><a href="https://github.com/Gokulakrishnan610?tab=repositories">All repositories ↗</a> &nbsp; · &nbsp; <a href="https://gokulakrishnank.in">More on my portfolio ↗</a></p>
 
 <details>
-<summary>More experiments & campus tools</summary>
+<summary>More public builds</summary>
 
-- **[INSYNC](https://github.com/Gokulakrishnan610/INSYNC)** — software experiments and practical problem solving.
-- **[IoT](https://github.com/Gokulakrishnan610/IOT)** — connected-device experiments.
-- **Disaster management app** — Flutter and weather-driven emergency prediction.
-- **Waste-collecting boat** — computer vision and embedded robotics with YOLO, Raspberry Pi, and Pixhawk.
-- **Campus tools** — timetable scheduling and hostel management, developed during my REC internship.
+- **[LMS](https://github.com/Gokulakrishnan610/LMS)** · TypeScript
+- **[devs-society](https://github.com/Gokulakrishnan610/devs-society)** · TypeScript
+- **[EcoSentineladmin](https://github.com/Gokulakrishnan610/EcoSentineladmin)** · TypeScript
+- **[Titanium](https://github.com/Gokulakrishnan610/Titanium)** · TypeScript
+- **[cloud_storage](https://github.com/Gokulakrishnan610/cloud_storage)** · Python
+- **[SmartTrafficML](https://github.com/Gokulakrishnan610/SmartTrafficML)** · Python
+- **[AttendanceCV](https://github.com/Gokulakrishnan610/AttendanceCV)** · Python
+- **[INSYNC](https://github.com/Gokulakrishnan610/INSYNC)** · Python
 
 </details>
 
@@ -151,9 +162,9 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 **Recently updated**
 
-- **[LMS](https://github.com/Gokulakrishnan610/LMS)** · TypeScript · pushed 2026-08-21
-- **[Finalyearproject](https://github.com/Gokulakrishnan610/Finalyearproject)** · Language not reported · pushed 2026-08-21
-- **[interviewprep](https://github.com/Gokulakrishnan610/interviewprep)** · Python · pushed 2026-07-17
+- **[gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)** · Python · pushed 2026-09-20
+- **[devs-society](https://github.com/Gokulakrishnan610/devs-society)** · TypeScript · pushed 2026-09-19
+- **[cloud_storage](https://github.com/Gokulakrishnan610/cloud_storage)** · Python · pushed 2026-09-19
 
 ## Contributions
 
@@ -177,19 +188,22 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 19 Sep 2026, 15:56 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 24 Sep 2026, 05:36 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
 
-**39 original public repositories** · **56 stars received** · **3 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
+**45 original public repositories** · **63 stars received** · **3 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
 
-**712 contributions** across **96 active days** · 2025-09-14 → 2026-09-19. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
+**730 contributions** across **98 active days** · 2025-09-21 → 2026-09-24. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
 
 **Recent public activity**
 
-- 2026-08-21 · Pushed code to [Gokulakrishnan610/LMS](https://github.com/Gokulakrishnan610/LMS)
-- 2026-08-21 · Created a repository or ref in [Gokulakrishnan610/LMS](https://github.com/Gokulakrishnan610/LMS)
+- 2026-09-19 · Pushed code to [Gokulakrishnan610/EcoSentineluser](https://github.com/Gokulakrishnan610/EcoSentineluser)
+- 2026-09-19 · Pushed code to [Gokulakrishnan610/EcoSentineladmin](https://github.com/Gokulakrishnan610/EcoSentineladmin)
+- 2026-09-19 · Forked [MUL7ii/Titanium2025](https://github.com/MUL7ii/Titanium2025)
+- 2026-09-19 · Created a repository or ref in [Gokulakrishnan610/WhiteboardApp-](https://github.com/Gokulakrishnan610/WhiteboardApp-)
+- 2026-09-19 · Starred [Gokulakrishnan610/Titanium2025](https://github.com/Gokulakrishnan610/Titanium2025)
 
 GitHub schedules and image caches can delay updates. [How this works](./docs/automation.md)
 

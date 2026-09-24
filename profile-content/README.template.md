@@ -38,13 +38,9 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 <p><a href="https://github.com/{{USERNAME}}?tab=repositories">All repositories ↗</a> &nbsp; · &nbsp; <a href="{{PORTFOLIO}}">More on my portfolio ↗</a></p>
 
 <details>
-<summary>More experiments & campus tools</summary>
+<summary>More public builds</summary>
 
-- **[INSYNC](https://github.com/{{USERNAME}}/INSYNC)** — software experiments and practical problem solving.
-- **[IoT](https://github.com/{{USERNAME}}/IOT)** — connected-device experiments.
-- **Disaster management app** — Flutter and weather-driven emergency prediction.
-- **Waste-collecting boat** — computer vision and embedded robotics with YOLO, Raspberry Pi, and Pixhawk.
-- **Campus tools** — timetable scheduling and hostel management, developed during my REC internship.
+{{MORE_PROJECTS}}
 
 </details>
 
