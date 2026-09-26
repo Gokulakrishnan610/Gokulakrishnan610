@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
 <title id="title">GitHub statistics</title>
-<desc id="desc">46 public non-fork repositories, 63 stars received across those repositories, and 3 followers. 743 contributions in the returned calendar. Language mix counts each repository&#x27;s primary language once; it does not measure code volume or proficiency.</desc>
+<desc id="desc">46 public non-fork repositories, 63 stars received across those repositories, and 3 followers. 763 contributions in the returned calendar. Language mix counts each repository&#x27;s primary language once; it does not measure code volume or proficiency.</desc>
 <defs>
 <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11172a"/><stop offset=".55" stop-color="#070914"/><stop offset="1" stop-color="#141027"/></linearGradient>
 <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#49e39b"/><stop offset=".2" stop-color="#ffd84d"/><stop offset=".42" stop-color="#ff7a45"/><stop offset=".62" stop-color="#ff5ca8"/><stop offset=".82" stop-color="#a56eff"/><stop offset="1" stop-color="#45d9ff"/></linearGradient>
@@ -36,18 +36,18 @@
 <rect x="878" y="108" width="254" height="118" rx="13" fill="#101527" stroke="#28324d"/>
 <rect x="878" y="108" width="254" height="5" rx="2.5" fill="#ffd84d"/>
 <rect class="scan" x="888" y="111" width="44" height="2" fill="#f4f7ff" opacity=".9"/>
-<text x="898" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">743</text>
+<text x="898" y="173" fill="#f4f7ff" font-size="53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="750" letter-spacing="-2">763</text>
 <text x="898" y="207" fill="#ffd84d" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">CONTRIBUTIONS</text>
 </g>
 <rect x="44" y="252" width="688" height="306" rx="15" fill="#0d1221" stroke="#293451"/>
 <text x="70" y="293" fill="#f4f7ff" font-size="23" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" >Language constellation</text>
 <text x="706" y="293" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" text-anchor="end" letter-spacing=".8">PRIMARY LANGUAGE · REPOSITORY COUNT</text>
 <circle cx="197" cy="414" r="52" fill="none" stroke="#28324d" stroke-width="22"/>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#45d9ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="116.75 209.98" stroke-dashoffset="-0.00" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;116.75 209.98;116.75 209.98" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#45d9ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="109.65 217.08" stroke-dashoffset="-0.00" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;109.65 217.08;109.65 217.08" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
-<circle cx="197" cy="414" r="52" fill="none" stroke="#4b72ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="81.23 245.50" stroke-dashoffset="-120.75" transform="rotate(-90 197 414)">
-<animate attributeName="stroke-dasharray" values="0 326.73;81.23 245.50;81.23 245.50" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
+<circle cx="197" cy="414" r="52" fill="none" stroke="#4b72ff" stroke-width="22" stroke-linecap="round" stroke-dasharray="88.34 238.39" stroke-dashoffset="-113.65" transform="rotate(-90 197 414)">
+<animate attributeName="stroke-dasharray" values="0 326.73;88.34 238.39;88.34 238.39" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
 </circle>
 <circle cx="197" cy="414" r="52" fill="none" stroke="#64718c" stroke-width="22" stroke-linecap="round" stroke-dasharray="81.23 245.50" stroke-dashoffset="-205.98" transform="rotate(-90 197 414)">
 <animate attributeName="stroke-dasharray" values="0 326.73;81.23 245.50;81.23 245.50" keyTimes="0;.22;1" dur="7s" repeatCount="indefinite"/>
@@ -65,10 +65,10 @@
 <text x="197" y="438" fill="#a9b2c7" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" text-anchor="middle" letter-spacing="1">REPOS</text>
 <circle class="pulse" cx="310" cy="343" r="6" fill="#45d9ff" style="animation-delay:-0.0s"/>
 <text x="327" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Python</text>
-<text x="327" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >17 repos · 37%</text>
+<text x="327" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >16 repos · 35%</text>
 <circle class="pulse" cx="515" cy="343" r="6" fill="#4b72ff" style="animation-delay:-0.4s"/>
 <text x="532" y="350" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >TypeScript</text>
-<text x="532" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >12 repos · 26%</text>
+<text x="532" y="373" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >13 repos · 28%</text>
 <circle class="pulse" cx="310" cy="404" r="6" fill="#64718c" style="animation-delay:-0.8s"/>
 <text x="327" y="411" fill="#f4f7ff" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="550" >Unspecified</text>
 <text x="327" y="434" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="400" >12 repos · 26%</text>
