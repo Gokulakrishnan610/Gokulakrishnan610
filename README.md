@@ -188,7 +188,7 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 30 Sep 2026, 05:40 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 30 Sep 2026, 12:45 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
@@ -199,11 +199,11 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 **Recent public activity**
 
+- 2026-09-30 · Pushed code to [Gokul-anand-b/Acentra](https://github.com/Gokul-anand-b/Acentra)
+- 2026-09-30 · Created a repository or ref in [Gokul-anand-b/Acentra](https://github.com/Gokul-anand-b/Acentra)
 - 2026-09-30 · Pushed code to [Gokulakrishnan610/MLOPS](https://github.com/Gokulakrishnan610/MLOPS)
 - 2026-09-30 · Created a repository or ref in [Gokulakrishnan610/MLOPS](https://github.com/Gokulakrishnan610/MLOPS)
 - 2026-09-26 · Pushed code to [Gokulakrishnan610/StockSense](https://github.com/Gokulakrishnan610/StockSense)
-- 2026-09-26 · Created a repository or ref in [Gokulakrishnan610/StockSense](https://github.com/Gokulakrishnan610/StockSense)
-- 2026-09-25 · Pushed code to [Gokulakrishnan610/gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)
 
 GitHub schedules and image caches can delay updates. [How this works](./docs/automation.md)
 
