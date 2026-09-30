@@ -162,9 +162,9 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 **Recently updated**
 
+- **[MLOPS](https://github.com/Gokulakrishnan610/MLOPS)** · HTML · pushed 2026-09-30
 - **[StockSense](https://github.com/Gokulakrishnan610/StockSense)** · TypeScript · pushed 2026-09-26
 - **[gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)** · Python · pushed 2026-09-25
-- **[devs-society](https://github.com/Gokulakrishnan610/devs-society)** · TypeScript · pushed 2026-09-19
 
 ## Contributions
 
@@ -188,21 +188,22 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 29 Sep 2026, 22:22 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 30 Sep 2026, 05:40 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
 
-**46 original public repositories** · **63 stars received** · **4 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
+**47 original public repositories** · **63 stars received** · **4 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
 
-**768 contributions** across **101 active days** · 2025-09-28 → 2026-09-29. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
+**769 contributions** across **102 active days** · 2025-09-28 → 2026-09-30. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
 
 **Recent public activity**
 
+- 2026-09-30 · Pushed code to [Gokulakrishnan610/MLOPS](https://github.com/Gokulakrishnan610/MLOPS)
+- 2026-09-30 · Created a repository or ref in [Gokulakrishnan610/MLOPS](https://github.com/Gokulakrishnan610/MLOPS)
 - 2026-09-26 · Pushed code to [Gokulakrishnan610/StockSense](https://github.com/Gokulakrishnan610/StockSense)
 - 2026-09-26 · Created a repository or ref in [Gokulakrishnan610/StockSense](https://github.com/Gokulakrishnan610/StockSense)
 - 2026-09-25 · Pushed code to [Gokulakrishnan610/gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)
-- 2026-09-24 · Pushed code to [Gokulakrishnan610/gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)
 
 GitHub schedules and image caches can delay updates. [How this works](./docs/automation.md)
 
