@@ -162,9 +162,9 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 **Recently updated**
 
+- **[BiteMePlz](https://github.com/Gokulakrishnan610/BiteMePlz)** · TypeScript · pushed 2026-10-15
 - **[MLOPS](https://github.com/Gokulakrishnan610/MLOPS)** · HTML · pushed 2026-09-30
 - **[StockSense](https://github.com/Gokulakrishnan610/StockSense)** · TypeScript · pushed 2026-09-26
-- **[gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)** · Python · pushed 2026-09-25
 
 ## Contributions
 
@@ -188,7 +188,7 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 15 Oct 2026, 17:08 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 15 Oct 2026, 21:30 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
