@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:58:30Z",
+  "updated_at": "2026-10-30T13:07:48Z",
   "user": {
     "login": "Gokulakrishnan610",
     "public_repos": 51,
@@ -265,7 +265,7 @@
       "forks_count": 0,
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-10-29T22:50:43Z"
+      "pushed_at": "2026-10-30T05:58:35Z"
     },
     {
       "name": "Gokulakrishnan610.github.io",
@@ -2458,21 +2458,6 @@
       "type": "MemberEvent",
       "repo": "Gokul-anand-b/Acentra",
       "created_at": "2026-09-30T09:34:26Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Gokulakrishnan610/MLOPS",
-      "created_at": "2026-09-30T04:16:23Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Gokulakrishnan610/MLOPS",
-      "created_at": "2026-09-30T04:04:07Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "Gokulakrishnan610/MLOPS",
-      "created_at": "2026-09-30T04:02:05Z"
     }
   ]
 }
