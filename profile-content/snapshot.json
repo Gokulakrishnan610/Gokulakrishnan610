@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:27:53Z",
+  "updated_at": "2026-11-10T19:50:38Z",
   "user": {
     "login": "Gokulakrishnan610",
-    "public_repos": 52,
+    "public_repos": 51,
     "followers": 4
   },
   "repos": [
@@ -265,7 +265,7 @@
       "forks_count": 0,
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-11-09T22:29:25Z"
+      "pushed_at": "2026-11-10T07:28:06Z"
     },
     {
       "name": "Gokulakrishnan610.github.io",
@@ -276,16 +276,6 @@
       "fork": false,
       "archived": false,
       "pushed_at": "2025-12-07T11:59:25Z"
-    },
-    {
-      "name": "gym_api_app",
-      "html_url": "https://github.com/Gokulakrishnan610/gym_api_app",
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "fork": false,
-      "archived": false,
-      "pushed_at": "2026-11-08T13:23:13Z"
     },
     {
       "name": "hack",
@@ -2369,11 +2359,6 @@
     ]
   },
   "events": [
-    {
-      "type": "PushEvent",
-      "repo": "Gokulakrishnan610/gym_api_app",
-      "created_at": "2026-11-08T13:23:14Z"
-    },
     {
       "type": "PushEvent",
       "repo": "Gokulakrishnan610/KalyaanaMaalai",

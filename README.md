@@ -61,10 +61,6 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 <td valign="top">Messaging over Bluetooth Low Energy with peer discovery and multi-hop forwarding, without internet infrastructure.<br /><br /><sub>Kotlin · Android · BLE · Cryptography</sub></td>
 </tr>
 <tr>
-<td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/gym_api_app">Gym Access Bridge ↗</a></strong><br /><sub>Physical access</sub></td>
-<td valign="top">A FastAPI bridge that connects a gym platform to ZKBio face-recognition turnstiles, access rules, device events, and live dashboards.<br /><br /><sub>Python · FastAPI · WebSockets · ZKBio</sub></td>
-</tr>
-<tr>
 <td width="30%" valign="top"><strong><a href="https://github.com/Gokulakrishnan610/esp32cam_feed">ESP32-CAM Feed ↗</a></strong><br /><sub>Connected vision</sub></td>
 <td valign="top">Streams frames from multiple ESP32-CAM modules through Flask endpoints and a receiver dashboard.<br /><br /><sub>ESP32-CAM · Python · Flask · OpenCV</sub></td>
 </tr>
@@ -162,9 +158,9 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 
 **Recently updated**
 
-- **[gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)** · Python · pushed 2026-11-08
 - **[KalyaanaMaalai](https://github.com/Gokulakrishnan610/KalyaanaMaalai)** · Python · pushed 2026-11-01
 - **[BiteMePlz](https://github.com/Gokulakrishnan610/BiteMePlz)** · TypeScript · pushed 2026-10-15
+- **[MLOPS](https://github.com/Gokulakrishnan610/MLOPS)** · HTML · pushed 2026-09-30
 
 ## Contributions
 
@@ -188,18 +184,17 @@ As **President of DEVS REC**, I help lead a community of **2,500+ tech enthusias
 </picture>
 -->
 
-<sub>Updated 10 Nov 2026, 07:27 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
+<sub>Updated 10 Nov 2026, 19:50 UTC · Scheduled every 6 hours · <a href="https://github.com/Gokulakrishnan610/Gokulakrishnan610/actions/workflows/profile-refresh.yml">Refresh workflow ↗</a></sub>
 
 <details>
 <summary>Activity details & how the profile updates</summary>
 
-**49 original public repositories** · **63 stars received** · **4 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
+**48 original public repositories** · **63 stars received** · **4 followers**. Forks are excluded from repository, star, and language metrics. Language mix counts repositories by their primary language, not code volume or proficiency.
 
 **981 contributions** across **102 active days** · 2025-11-09 → 2026-11-10. The calendar may include anonymized private contributions if enabled on GitHub; no private repository details are fetched.
 
 **Recent public activity**
 
-- 2026-11-08 · Pushed code to [Gokulakrishnan610/gym_api_app](https://github.com/Gokulakrishnan610/gym_api_app)
 - 2026-10-31 · Pushed code to [Gokulakrishnan610/KalyaanaMaalai](https://github.com/Gokulakrishnan610/KalyaanaMaalai)
 - 2026-10-15 · Pushed code to [Gokulakrishnan610/BiteMePlz](https://github.com/Gokulakrishnan610/BiteMePlz)
 
