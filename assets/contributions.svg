@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
 <title id="title">GitHub contributions in 3D</title>
-<desc id="desc">1010 contributions over 366 calendar days; 104 active days; best day 87 contributions. Each column is a day. Height uses a capped logarithmic scale. Rainbow position follows the week; exact date and count appear in every column&#x27;s title.</desc>
+<desc id="desc">1037 contributions over 366 calendar days; 104 active days; best day 87 contributions. Each column is a day. Height uses a capped logarithmic scale. Rainbow position follows the week; exact date and count appear in every column&#x27;s title.</desc>
 <defs>
 <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11172a"/><stop offset=".55" stop-color="#070914"/><stop offset="1" stop-color="#141027"/></linearGradient>
 <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#49e39b"/><stop offset=".2" stop-color="#ffd84d"/><stop offset=".42" stop-color="#ff7a45"/><stop offset=".62" stop-color="#ff5ca8"/><stop offset=".82" stop-color="#a56eff"/><stop offset="1" stop-color="#45d9ff"/></linearGradient>
@@ -11,7 +11,7 @@
 <text x="44" y="58" fill="#f4f7ff" font-size="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" >Contribution spectrum</text>
 <text x="1156" y="58" fill="#a9b2c7" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" text-anchor="end" letter-spacing="1">16 NOV 2026 · ONE COLUMN PER DAY</text>
 <path d="M44 83H1156" stroke="#28324d"/>
-<text x="44" y="143" fill="#45d9ff" font-size="43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" >1,010</text>
+<text x="44" y="143" fill="#45d9ff" font-size="43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" >1,037</text>
 <text x="44" y="174" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">CONTRIBUTIONS</text>
 <text x="426" y="143" fill="#ff5ca8" font-size="43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" >104</text>
 <text x="426" y="174" fill="#a9b2c7" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="650" letter-spacing=".8">ACTIVE DAYS</text>
@@ -175,6 +175,7 @@
 <polygon points="286.20,356.90 293.70,352.65 293.70,281.14 286.20,285.39" fill="#8ddd55" fill-opacity=".68"/>
 <polygon points="286.20,276.89 293.70,281.14 286.20,285.39 278.70,281.14" fill="#8ddd55" stroke="#070914" stroke-width=".5"/>
 <path d="M286.20 356.90V285.39" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="286.20,276.89 293.70,281.14 286.20,285.39 278.70,281.14" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-0.5s"/>
 </g>
 <g class="tower" style="animation-duration:8s;animation-delay:-8s">
 <title>2025-11-19: 0 contributions</title>
@@ -214,6 +215,7 @@
 <polygon points="239.50,361.20 247.00,356.95 247.00,287.42 239.50,291.67" fill="#49e39b" fill-opacity=".68"/>
 <polygon points="239.50,283.17 247.00,287.42 239.50,291.67 232.00,287.42" fill="#49e39b" stroke="#070914" stroke-width=".5"/>
 <path d="M239.50 361.20V291.67" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="239.50,283.17 247.00,287.42 239.50,291.67 232.00,287.42" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-0.0s"/>
 </g>
 <g class="tower" style="animation-duration:6s;animation-delay:-4s">
 <title>2026-02-15: 0 contributions</title>
@@ -293,6 +295,7 @@
 <polygon points="290.80,367.65 298.30,363.40 298.30,292.85 290.80,297.10" fill="#8ddd55" fill-opacity=".68"/>
 <polygon points="290.80,288.60 298.30,292.85 290.80,297.10 283.30,292.85" fill="#8ddd55" stroke="#070914" stroke-width=".5"/>
 <path d="M290.80 367.65V297.10" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="290.80,288.60 298.30,292.85 290.80,297.10 283.30,292.85" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-4.5s"/>
 </g>
 <g class="tower" style="animation-duration:9s;animation-delay:-1s">
 <title>2026-03-08: 0 contributions</title>
@@ -358,6 +361,7 @@
 <polygon points="244.10,371.95 251.60,367.70 251.60,300.40 244.10,304.65" fill="#49e39b" fill-opacity=".68"/>
 <polygon points="244.10,296.15 251.60,300.40 244.10,304.65 236.60,300.40" fill="#49e39b" stroke="#070914" stroke-width=".5"/>
 <path d="M244.10 371.95V304.65" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="244.10,296.15 251.60,300.40 244.10,304.65 236.60,300.40" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-4.0s"/>
 </g>
 <g class="tower" style="animation-duration:11s;animation-delay:-1s">
 <title>2026-01-27: 0 contributions</title>
@@ -427,6 +431,7 @@
 <polygon points="278.30,376.25 285.80,372.00 285.80,301.95 278.30,306.20" fill="#8ddd55" fill-opacity=".68"/>
 <polygon points="278.30,297.70 285.80,301.95 278.30,306.20 270.80,301.95" fill="#8ddd55" stroke="#070914" stroke-width=".5"/>
 <path d="M278.30 376.25V306.20" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="278.30,297.70 285.80,301.95 278.30,306.20 270.80,301.95" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-5.0s"/>
 </g>
 <g class="tower" style="animation-duration:7s;animation-delay:-9s">
 <title>2026-02-10: 32 contributions</title>
@@ -434,6 +439,7 @@
 <polygon points="359.20,376.25 366.70,372.00 366.70,302.47 359.20,306.72" fill="#8ddd55" fill-opacity=".68"/>
 <polygon points="359.20,298.22 366.70,302.47 359.20,306.72 351.70,302.47" fill="#8ddd55" stroke="#070914" stroke-width=".5"/>
 <path d="M359.20 376.25V306.72" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="359.20,298.22 366.70,302.47 359.20,306.72 351.70,302.47" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-0.5s"/>
 </g>
 <g class="tower" style="animation-duration:10s;animation-delay:-8s">
 <title>2026-03-09: 0 contributions</title>
@@ -535,6 +541,7 @@
 <polygon points="248.70,382.70 256.20,378.45 256.20,310.57 248.70,314.82" fill="#8ddd55" fill-opacity=".68"/>
 <polygon points="248.70,306.32 256.20,310.57 248.70,314.82 241.20,310.57" fill="#8ddd55" stroke="#070914" stroke-width=".5"/>
 <path d="M248.70 382.70V314.82" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="248.70,306.32 256.20,310.57 248.70,314.82 241.20,310.57" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-2.0s"/>
 </g>
 <g class="tower" style="animation-duration:7s;animation-delay:-7s">
 <title>2026-02-04: 0 contributions</title>
@@ -867,6 +874,7 @@
 <polygon points="692.00,397.75 699.50,393.50 699.50,312.23 692.00,316.48" fill="#ff5ca8" fill-opacity=".68"/>
 <polygon points="692.00,307.98 699.50,312.23 692.00,316.48 684.50,312.23" fill="#ff5ca8" stroke="#070914" stroke-width=".5"/>
 <path d="M692.00 397.75V316.48" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="692.00,307.98 699.50,312.23 692.00,316.48 684.50,312.23" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-2.5s"/>
 </g>
 <g class="tower" style="animation-duration:6s;animation-delay:-2s">
 <title>2026-01-10: 15 contributions</title>
@@ -1972,11 +1980,12 @@
 <path d="M893.90 453.65V416.79" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
 </g>
 <g class="tower" style="animation-duration:10s;animation-delay:-2s">
-<title>2026-11-16: 6 contributions</title>
-<polygon points="1048.20,449.40 1055.70,453.65 1055.70,410.96 1048.20,406.71" fill="#45d9ff" fill-opacity=".38"/>
-<polygon points="1055.70,453.65 1063.20,449.40 1063.20,406.71 1055.70,410.96" fill="#45d9ff" fill-opacity=".68"/>
-<polygon points="1055.70,402.46 1063.20,406.71 1055.70,410.96 1048.20,406.71" fill="#45d9ff" stroke="#070914" stroke-width=".5"/>
-<path d="M1055.70 453.65V410.96" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<title>2026-11-16: 33 contributions</title>
+<polygon points="1048.20,449.40 1055.70,453.65 1055.70,383.60 1048.20,379.35" fill="#45d9ff" fill-opacity=".38"/>
+<polygon points="1055.70,453.65 1063.20,449.40 1063.20,379.35 1055.70,383.60" fill="#45d9ff" fill-opacity=".68"/>
+<polygon points="1055.70,375.10 1063.20,379.35 1055.70,383.60 1048.20,379.35" fill="#45d9ff" stroke="#070914" stroke-width=".5"/>
+<path d="M1055.70 453.65V383.60" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="1055.70,375.10 1063.20,379.35 1055.70,383.60 1048.20,379.35" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-2.0s"/>
 </g>
 <g class="tower" style="animation-duration:8s;animation-delay:-6s">
 <title>2026-07-11: 0 contributions</title>
@@ -2261,6 +2270,7 @@
 <polygon points="856.40,479.45 863.90,475.20 863.90,406.20 856.40,410.45" fill="#4b72ff" fill-opacity=".68"/>
 <polygon points="856.40,401.95 863.90,406.20 856.40,410.45 848.90,406.20" fill="#4b72ff" stroke="#070914" stroke-width=".5"/>
 <path d="M856.40 479.45V410.45" stroke="#f4f7ff" stroke-opacity=".18" stroke-width=".6"/>
+<polygon points="856.40,401.95 863.90,406.20 856.40,410.45 848.90,406.20" fill="#f4f7ff" class="pulse" opacity=".12" style="animation-delay:-0.5s"/>
 </g>
 <g class="tower" style="animation-duration:8s;animation-delay:-4s">
 <title>2026-10-03: 1 contribution</title>
